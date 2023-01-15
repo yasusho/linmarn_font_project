@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
-   sodipodi:docname="目.svg"
+   sodipodi:docname="針.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.2080865"
-     inkscape:cx="-300.35587"
-     inkscape:cy="1472.9452"
+     inkscape:zoom="0.41617299"
+     inkscape:cx="914.28326"
+     inkscape:cy="688.41565"
      inkscape:window-width="1920"
      inkscape:window-height="1191"
      inkscape:window-x="-9"
@@ -73,30 +73,19 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       d="M 35.300682,37.860958 V 226.72238"
-       id="path2437" />
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       d="M 229.28271,37.860958 V 226.72238"
-       id="path2441"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       d="M 229.28271,37.860958 H 35.300682"
-       id="path2443" />
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       d="M 229.28271,210.37148 H 35.300682"
-       id="path2445" />
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       d="M 99.961358,37.860958 V 210.37148"
-       id="path31515" />
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       d="M 164.62203,37.860958 V 210.37148"
-       id="path31548" />
+    <g
+       id="glyph_tip1"
+       transform="matrix(0.87889368,0,0,0.86974391,3406.8078,-221.17231)"
+       style="stroke-width:1.14376">
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:17.1564;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="M -3683.1098,278.04012 V 534.76001"
+         id="path3945" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:17.1563;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m -3822.3331,424.91102 c 0,0 83.8329,91.21041 139.2233,109.849"
+         id="path3947"
+         sodipodi:nodetypes="cc" />
+    </g>
   </g>
 </svg>

@@ -22,17 +22,17 @@
          transform="translate(2.2392198e-4,270.93325)"
          style="stroke-width:1.13784">
         <path
-           style="fill:none;fill-opacity:0.5;stroke:#000000;stroke-width:17.0675;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:17.0675;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
            d="M -2247.392,25.164981 -2380.4292,189.781"
            id="path1542" />
       </g>
       <path
-         style="fill:none;fill-opacity:0.5;stroke:#000000;stroke-width:17.0675;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:17.0675;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
          d="M -2319.9878,527.86721 -2440.5895,394.19405"
          id="path1546" />
     </g>
     <path
-       style="fill:#000000;fill-opacity:0.5;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
        d="m 240.63536,35.344539 -217.612704,0"
        id="path1564" />
   </g>

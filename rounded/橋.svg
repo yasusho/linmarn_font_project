@@ -12,15 +12,15 @@
   <defs
      id="defs2" />
   <path
-     style="fill:#000000;fill-opacity:0.5;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
      d="m 35.300682,63.110926 0,121.163094"
      id="path2437" />
   <path
-     style="fill:none;fill-opacity:0.5;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
      d="m 229.28271,63.110926 c 0,112.275054 -1.64338,118.887294 -48.20798,157.038794"
      id="path2441" />
   <path
-     style="fill:#000000;fill-opacity:0.5;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
      d="M 229.28271,63.110926 H 35.300682"
      id="path2443" />
 </svg>

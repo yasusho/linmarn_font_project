@@ -35,27 +35,27 @@
   <defs
      id="defs2" />
   <path
-     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#000000;fill-opacity:0.5;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
      d="M 50.362851,43.152595 V 232.01408"
      id="path2437" />
   <path
-     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#000000;fill-opacity:0.5;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
      d="M 214.22049,43.152595 V 232.01408"
      id="path2441" />
   <path
-     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#000000;fill-opacity:0.5;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
      d="M 214.22049,43.152595 H 50.362851"
      id="path2443" />
   <path
-     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#000000;fill-opacity:0.5;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
      d="M 214.22049,215.66317 H 50.362851"
      id="path2445" />
   <path
-     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:14.9999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#000000;fill-opacity:0.5;stroke:#000000;stroke-width:14.9999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
      d="M 244.29865,129.40789 H 20.284736"
      id="path31498" />
   <path
-     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#000000;fill-opacity:0.5;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
      d="M 132.29167,43.152625 V 215.66315"
      id="path31515" />
 </svg>

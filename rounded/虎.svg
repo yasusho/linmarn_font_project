@@ -14,27 +14,27 @@
   <g
      id="layer1">
     <path
-       style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
        d="M 73.969625,63.18119 H 243.41667 c 0,0 -9.89211,117.08783 -59.84132,180.60903"
        id="path40178" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
        d="m 189.50779,63.18119 c 0,0 -10.23358,99.53786 -69.93212,153.46782"
        id="path40180" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
        d="m 127.4375,63.18119 c 0,0 -9.78864,86.18972 -69.487177,140.11968"
        id="path40182" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
        d="m 83.69808,20.099933 c 0,0 -16.999501,95.717717 -62.904963,134.519787"
        id="path40184" />
     <path
-       style="fill:#000000;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:#000000;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
        d="M 183.57535,243.79022 147.20308,224.14901"
        id="path40186" />
     <path
-       style="fill:#000000;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:#000000;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
        d="M 83.69808,20.099933 H 21.166672"
        id="path40203" />
   </g>

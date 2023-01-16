@@ -28,11 +28,11 @@
      d="M 38.34666,53.660899 H 226.23667"
      id="path40541" />
   <path
-     style="fill:#000000;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#000000;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
      d="M 38.34666,53.660899 V 143.91072"
      id="path40543" />
   <path
-     style="fill:#000000;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#000000;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
      d="M 226.23667,53.660899 V 143.91072"
      id="path40545" />
 </svg>

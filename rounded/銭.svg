@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
-   sodipodi:docname="font_template.svg"
+   sodipodi:docname="銭.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.5946522"
-     inkscape:cx="771.87976"
-     inkscape:cy="510.38237"
+     inkscape:cx="577.64859"
+     inkscape:cy="325.4003"
      inkscape:window-width="1920"
      inkscape:window-height="1191"
      inkscape:window-x="-9"
@@ -72,5 +72,19 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1" />
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5"
+       d="M 32.742489,93.698965 H 231.84088 C 229.66295,141.4949 213.22855,180.06044 182.00813,221.25634 l -49.71645,-34.09913 m -85.887091,-54.86554 39.02999,75.75994"
+       id="path5879"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5"
+       d="M 132.29167,20.729181 V 243.94583"
+       id="path7514" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5"
+       d="m 43.55637,46.718484 h 177.4706"
+       id="path7528" />
+  </g>
 </svg>

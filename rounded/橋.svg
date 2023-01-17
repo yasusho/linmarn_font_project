@@ -11,16 +11,19 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs2" />
-  <path
-     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
-     d="m 35.300682,63.110926 0,121.163094"
-     id="path2437" />
-  <path
-     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
-     d="m 229.28271,63.110926 c 0,112.275054 -1.64338,118.887294 -48.20798,157.038794"
-     id="path2441" />
-  <path
-     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
-     d="M 229.28271,63.110926 H 35.300682"
-     id="path2443" />
+  <g
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5"
+       d="M 33.370347,45.356578 60.290485,171.418"
+       id="path1314" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5"
+       d="M 231.97843,45.356578 C 209.91116,133.46447 190.6687,182.63893 132.29167,219.22675"
+       id="path1924" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5"
+       d="M 33.370348,45.356578 H 231.97843"
+       id="path1941" />
+  </g>
 </svg>

@@ -13,18 +13,18 @@
      id="defs2" />
   <path
      style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:14.9999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
-     d="M 20.663696,233.03207 H 243.91956"
+     d="M 20.663696,214.53367 H 243.91956"
      id="path2425" />
   <path
      style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5"
-     d="M 60.901411,35.147706 77.855251,140.30693"
-     id="path1314" />
-  <path
-     style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5"
-     d="M 199.33997,31.551276 C 184.85332,133.65068 172.2211,190.63406 133.89795,233.03201"
+     d="M 199.33997,50.049663 C 184.85332,133.40113 172.2211,179.92097 133.89795,214.53362"
      id="path1924" />
   <path
      style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5"
-     d="M 109.46887,35.147706 126.42271,140.30693"
+     d="m 60.901411,50.04966 16.95384,85.84942"
+     id="path1314-8" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5"
+     d="m 109.46887,50.04966 16.95384,85.84942"
      id="path10169" />
 </svg>

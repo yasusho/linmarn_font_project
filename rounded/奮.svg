@@ -7,70 +7,43 @@
    viewBox="0 0 264.58333 264.58333"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
-   sodipodi:docname="font_template.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview7"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
-     showgrid="false"
-     inkscape:zoom="0.5946522"
-     inkscape:cx="771.87976"
-     inkscape:cy="510.38237"
-     inkscape:window-width="1920"
-     inkscape:window-height="1191"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
-     showguides="true">
-    <sodipodi:guide
-       position="0,251.35416"
-       orientation="0,1"
-       id="guide740"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,134,229)" />
-    <sodipodi:guide
-       position="0,13.229161"
-       orientation="0,-1"
-       id="guide956"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="13.229172,264.58333"
-       orientation="1,0"
-       id="guide958"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="251.35417,264.58333"
-       orientation="1,0"
-       id="guide960"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="132.29167,264.58333"
-       orientation="1,0"
-       id="guide962"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="0,132.29166"
-       orientation="0,-1"
-       id="guide964"
-       inkscape:locked="false" />
-  </sodipodi:namedview>
   <defs
      id="defs2" />
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1" />
+     id="layer1">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
+       d="M 54.905105,69.680735 H 208.45109"
+       id="path1309" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
+       d="m 131.57585,79.273148 91.21584,53.673322"
+       id="path1632" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
+       d="M 73.995299,38.424198 88.303576,66.265651"
+       id="path36278" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
+       d="m 190.55087,36.739431 c -4.21962,13.920726 -7.2845,23.552425 -22.48808,32.941304"
+       id="path36650" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
+       d="m 131.67811,20.72917 v 50.163665 c 0,29.222835 -50.840089,61.809935 -89.886466,61.809935"
+       id="path1518-1" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:14.9999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
+       d="M 198.39581,133.32975 C 160.39139,178.13009 75.463281,231.02136 20.729122,243.85423"
+       id="path1522" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:14.9999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
+       d="M 243.8542,243.85423 59.164788,158.59798"
+       id="path1528" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
+       d="m 90.773009,119.0469 45.864311,26.48955"
+       id="path33226" />
+  </g>
 </svg>

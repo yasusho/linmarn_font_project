@@ -1,8 +1,8 @@
 import * as fs from 'fs';
 
 (async function() {
-const in_path = process.argv[2] ?? "rounded"
-const fix_path = process.argv[3] ?? "rounded_fixed"
+const in_path = process.argv[2] ?? (() => { throw new Error("入力パスを node fix_glyphs.js rounded のような形で指定して実行してください。") })()
+const fix_path = `${in_path}_fixed`
 const SVGFixer = require("oslllo-svg-fixer");
 
 const fix_options = {

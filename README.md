@@ -3,4 +3,4 @@
 "fileset" フォルダにリネーム済みの空のsvgが置かれている。
 
 ## パス化
-`npm install` の後に `node fix_glyphs.js` でいけるはず
+`npm install` の後に `node fix_glyphs.js rounded` とかでいけるはず

@@ -4,3 +4,6 @@
 
 ## パス化
 `npm install` の後に `node fix_glyphs.js rounded` とかでいけるはず
+
+## フォント化
+`node to_font.js rounded` でいけるはず

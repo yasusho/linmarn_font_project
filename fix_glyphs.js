@@ -37,6 +37,11 @@ const fs = __importStar(require("fs"));
     files.forEach(function (file, _index) {
         if (file.slice(-4) !== ".svg")
             return;
+        if (file.length > 6) {
+            console.log(`Removing ${file}: file name too long`);
+            fs.unlinkSync(`${fix_path}/${file}`);
+            return;
+        }
         const svg_glyph = fs.readFileSync(`${fix_path}/${file}`, 'utf-8').replace(/viewBox="0 0 264.58333 264.58333"/, `viewBox="0 0 1000 1000"`);
         fs.writeFileSync(`${fix_path}/${file}`, svg_glyph);
     });

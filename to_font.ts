@@ -2,8 +2,9 @@ import { generateFonts, FontAssetType, OtherAssetType } from 'fantasticon';
 import * as fs from 'fs';
 // import * as fs_extra from 'fs-extra'
 (async function() {
-const fix_path = "rounded_fixed"
-const out_path = "fonts_rounded"
+const style_name = process.argv[2] ?? (() => { throw new Error("スタイル名を node fix_glyphs.js rounded のような形で指定して実行してください。") })()
+const fix_path = `${style_name}_fixed`;
+const out_path = `fonts`;
 const glyph_map: { [key: string]: number } = {};
 const files = fs.readdirSync(`${fix_path}/`);
 files.forEach((file, index) => {
@@ -18,7 +19,7 @@ files.forEach((file, index) => {
 generateFonts({
   inputDir: `${fix_path}/`,
   outputDir: `${out_path}/`,
-  name: "linzklar_rounded",
+  name: `linzklar_${style_name}`,
   fontTypes: [FontAssetType.TTF, FontAssetType.WOFF],
   assetTypes: [
     OtherAssetType.CSS,

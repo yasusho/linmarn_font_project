@@ -1,7 +1,7 @@
 @font-face {
     font-family: "linzklar_rounded";
-    src: url("./linzklar_rounded.ttf?1d2868f91f51dd19f597bded9b72145e") format("truetype"),
-url("./linzklar_rounded.woff?1d2868f91f51dd19f597bded9b72145e") format("woff");
+    src: url("./linzklar_rounded.ttf?feb33ff8d5088d326b66e5ae1a1c57e2") format("truetype"),
+url("./linzklar_rounded.woff?feb33ff8d5088d326b66e5ae1a1c57e2") format("woff");
 }
 
 i[class^="icon-"]:before, i[class*=" icon-"]:before {
@@ -15,18 +15,6 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
     -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-。:before {
-    content: "\3002";
-}
-.icon-々:before {
-    content: "\3005";
-}
-.icon-「:before {
-    content: "\300c";
-}
-.icon-」:before {
-    content: "\300d";
-}
 .icon-一:before {
     content: "\4e00";
 }
@@ -233,9 +221,6 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 }
 .icon-味:before {
     content: "\5473";
-}
-.icon-咍:before {
-    content: "\548d";
 }
 .icon-哩:before {
     content: "\54e9";
@@ -1014,9 +999,33 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-龍:before {
     content: "\9f8d";
 }
-.icon-！:before {
-    content: "\ff01";
+.icon-咍:before {
+    content: "\548d";
 }
 .icon-？:before {
     content: "\ff1f";
+}
+.icon-！:before {
+    content: "\ff01";
+}
+.icon-。:before {
+    content: "\3002";
+}
+.icon-「:before {
+    content: "\300c";
+}
+.icon-」:before {
+    content: "\300d";
+}
+.icon-々:before {
+    content: "\3005";
+}
+.icon-躍:before {
+    content: "\8e8d";
+}
+.icon-多:before {
+    content: "\591a";
+}
+.icon-増:before {
+    content: "\5897";
 }

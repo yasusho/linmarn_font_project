@@ -1,7 +1,7 @@
 @font-face {
     font-family: "linzklar_rounded";
-    src: url("./linzklar_rounded.ttf?fde42a79ea02177c2821295e2061321b") format("truetype"),
-url("./linzklar_rounded.woff?fde42a79ea02177c2821295e2061321b") format("woff");
+    src: url("./linzklar_rounded.ttf?7c4fbd91453525cec1e3d951bbca7985") format("truetype"),
+url("./linzklar_rounded.woff?7c4fbd91453525cec1e3d951bbca7985") format("woff");
 }
 
 i[class^="icon-"]:before, i[class*=" icon-"]:before {
@@ -41,6 +41,9 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 }
 .icon-8:before {
     content: "\38";
+}
+.icon-9:before {
+    content: "\39";
 }
 .icon-exclamation:before {
     content: "\21";

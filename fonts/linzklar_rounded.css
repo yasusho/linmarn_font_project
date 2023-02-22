@@ -1,7 +1,7 @@
 @font-face {
     font-family: "linzklar_rounded";
-    src: url("./linzklar_rounded.ttf?9031179351e48e24253e5ace831a3aab") format("truetype"),
-url("./linzklar_rounded.woff?9031179351e48e24253e5ace831a3aab") format("woff");
+    src: url("./linzklar_rounded.ttf?7c4fbd91453525cec1e3d951bbca7985") format("truetype"),
+url("./linzklar_rounded.woff?7c4fbd91453525cec1e3d951bbca7985") format("woff");
 }
 
 i[class^="icon-"]:before, i[class*=" icon-"]:before {
@@ -45,6 +45,90 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-9:before {
     content: "\39";
 }
+.icon-exclamation:before {
+    content: "\21";
+}
+.icon-comma:before {
+    content: "\2c";
+}
+.icon-a:before {
+    content: "\61";
+}
+.icon-b:before {
+    content: "\62";
+}
+.icon-c:before {
+    content: "\63";
+}
+.icon-d:before {
+    content: "\64";
+}
+.icon-e:before {
+    content: "\65";
+}
+.icon-i:before {
+    content: "\69";
+}
+.icon-j:before {
+    content: "\6a";
+}
+.icon-k:before {
+    content: "\6b";
+}
+.icon-l:before {
+    content: "\6c";
+}
+.icon-m:before {
+    content: "\6d";
+}
+.icon-n:before {
+    content: "\6e";
+}
+.icon-o:before {
+    content: "\6f";
+}
+.icon-p:before {
+    content: "\70";
+}
+.icon-t:before {
+    content: "\74";
+}
+.icon-U-0022:before {
+    content: "\22";
+}
+.icon-U-002E:before {
+    content: "\2e";
+}
+.icon-U-003F:before {
+    content: "\3f";
+}
+.icon-u:before {
+    content: "\75";
+}
+.icon-w:before {
+    content: "\77";
+}
+.icon-x:before {
+    content: "\78";
+}
+.icon-z:before {
+    content: "\7a";
+}
+.icon-。:before {
+    content: "\3002";
+}
+.icon-々:before {
+    content: "\3005";
+}
+.icon-「:before {
+    content: "\300c";
+}
+.icon-」:before {
+    content: "\300d";
+}
+.icon-㕮:before {
+    content: "\356e";
+}
 .icon-一:before {
     content: "\4e00";
 }
@@ -78,6 +162,9 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-九:before {
     content: "\4e5d";
 }
+.icon-乾:before {
+    content: "\4e7e";
+}
 .icon-二:before {
     content: "\4e8c";
 }
@@ -90,8 +177,14 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-亦:before {
     content: "\4ea6";
 }
+.icon-享:before {
+    content: "\4eab";
+}
 .icon-人:before {
     content: "\4eba";
+}
+.icon-从:before {
+    content: "\4ece";
 }
 .icon-付:before {
     content: "\4ed8";
@@ -111,8 +204,14 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-何:before {
     content: "\4f55";
 }
+.icon-佰:before {
+    content: "\4f70";
+}
 .icon-使:before {
     content: "\4f7f";
+}
+.icon-俐:before {
+    content: "\4fd0";
 }
 .icon-倉:before {
     content: "\5009";
@@ -123,11 +222,26 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-値:before {
     content: "\5024";
 }
+.icon-倶:before {
+    content: "\5036";
+}
+.icon-健:before {
+    content: "\5065";
+}
 .icon-傷:before {
     content: "\50b7";
 }
 .icon-傾:before {
     content: "\50be";
+}
+.icon-僚:before {
+    content: "\50da";
+}
+.icon-億:before {
+    content: "\5104";
+}
+.icon-兄:before {
+    content: "\5144";
 }
 .icon-光:before {
     content: "\5149";
@@ -183,6 +297,12 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-別:before {
     content: "\5225";
 }
+.icon-刺:before {
+    content: "\523a";
+}
+.icon-刻:before {
+    content: "\523b";
+}
 .icon-前:before {
     content: "\524d";
 }
@@ -213,11 +333,20 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-千:before {
     content: "\5343";
 }
+.icon-半:before {
+    content: "\534a";
+}
 .icon-南:before {
     content: "\5357";
 }
 .icon-即:before {
     content: "\5373";
+}
+.icon-卵:before {
+    content: "\5375";
+}
+.icon-叉:before {
+    content: "\53c9";
 }
 .icon-友:before {
     content: "\53cb";
@@ -228,20 +357,41 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-受:before {
     content: "\53d7";
 }
+.icon-叛:before {
+    content: "\53db";
+}
 .icon-口:before {
     content: "\53e3";
 }
 .icon-古:before {
     content: "\53e4";
 }
+.icon-叫:before {
+    content: "\53eb";
+}
+.icon-叮:before {
+    content: "\53ee";
+}
+.icon-可:before {
+    content: "\53ef";
+}
 .icon-右:before {
     content: "\53f3";
+}
+.icon-吁:before {
+    content: "\5401";
 }
 .icon-同:before {
     content: "\540c";
 }
 .icon-名:before {
     content: "\540d";
+}
+.icon-后:before {
+    content: "\540e";
+}
+.icon-吏:before {
+    content: "\540f";
 }
 .icon-呉:before {
     content: "\5449";
@@ -252,11 +402,26 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-味:before {
     content: "\5473";
 }
+.icon-呻:before {
+    content: "\547b";
+}
+.icon-咍:before {
+    content: "\548d";
+}
+.icon-哇:before {
+    content: "\54c7";
+}
+.icon-哦:before {
+    content: "\54e6";
+}
 .icon-哩:before {
     content: "\54e9";
 }
 .icon-唯:before {
     content: "\552f";
+}
+.icon-啌:before {
+    content: "\554c";
 }
 .icon-善:before {
     content: "\5584";
@@ -264,8 +429,17 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-嗅:before {
     content: "\55c5";
 }
+.icon-嗚:before {
+    content: "\55da";
+}
+.icon-嘗:before {
+    content: "\5617";
+}
 .icon-噫:before {
     content: "\566b";
+}
+.icon-囁:before {
+    content: "\56c1";
 }
 .icon-四:before {
     content: "\56db";
@@ -275,6 +449,9 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 }
 .icon-国:before {
     content: "\56fd";
+}
+.icon-土:before {
+    content: "\571f";
 }
 .icon-圧:before {
     content: "\5727";
@@ -288,11 +465,20 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-型:before {
     content: "\578b";
 }
+.icon-埴:before {
+    content: "\57f4";
+}
 .icon-塩:before {
     content: "\5869";
 }
+.icon-増:before {
+    content: "\5897";
+}
 .icon-墨:before {
     content: "\58a8";
+}
+.icon-壁:before {
+    content: "\58c1";
 }
 .icon-壊:before {
     content: "\58ca";
@@ -309,11 +495,17 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-夘:before {
     content: "\5918";
 }
+.icon-多:before {
+    content: "\591a";
+}
 .icon-大:before {
     content: "\5927";
 }
 .icon-天:before {
     content: "\5929";
+}
+.icon-失:before {
+    content: "\5931";
 }
 .icon-奮:before {
     content: "\596e";
@@ -323,6 +515,9 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 }
 .icon-如:before {
     content: "\5982";
+}
+.icon-妙:before {
+    content: "\5999";
 }
 .icon-始:before {
     content: "\59cb";
@@ -339,6 +534,9 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-学:before {
     content: "\5b66";
 }
+.icon-孰:before {
+    content: "\5b70";
+}
 .icon-守:before {
     content: "\5b88";
 }
@@ -348,8 +546,14 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-定:before {
     content: "\5b9a";
 }
+.icon-宦:before {
+    content: "\5ba6";
+}
 .icon-家:before {
     content: "\5bb6";
+}
+.icon-寐:before {
+    content: "\5bd0";
 }
 .icon-寒:before {
     content: "\5bd2";
@@ -365,6 +569,9 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 }
 .icon-少:before {
     content: "\5c11";
+}
+.icon-属:before {
+    content: "\5c5e";
 }
 .icon-層:before {
     content: "\5c64";
@@ -390,8 +597,14 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-己:before {
     content: "\5df1";
 }
+.icon-巻:before {
+    content: "\5dfb";
+}
 .icon-布:before {
     content: "\5e03";
+}
+.icon-帝:before {
+    content: "\5e1d";
 }
 .icon-席:before {
     content: "\5e2d";
@@ -402,17 +615,26 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-常:before {
     content: "\5e38";
 }
+.icon-帽:before {
+    content: "\5e3d";
+}
 .icon-平:before {
     content: "\5e73";
 }
 .icon-広:before {
     content: "\5e83";
 }
+.icon-店:before {
+    content: "\5e97";
+}
 .icon-座:before {
     content: "\5ea7";
 }
 .icon-弓:before {
     content: "\5f13";
+}
+.icon-引:before {
+    content: "\5f15";
 }
 .icon-強:before {
     content: "\5f37";
@@ -422,6 +644,9 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 }
 .icon-彼:before {
     content: "\5f7c";
+}
+.icon-待:before {
+    content: "\5f85";
 }
 .icon-律:before {
     content: "\5f8b";
@@ -444,17 +669,26 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-怖:before {
     content: "\6016";
 }
+.icon-思:before {
+    content: "\601d";
+}
 .icon-急:before {
     content: "\6025";
 }
 .icon-恒:before {
     content: "\6052";
 }
+.icon-悖:before {
+    content: "\6096";
+}
 .icon-悪:before {
     content: "\60aa";
 }
 .icon-意:before {
     content: "\610f";
+}
+.icon-慥:before {
+    content: "\6165";
 }
 .icon-我:before {
     content: "\6211";
@@ -471,8 +705,14 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-抗:before {
     content: "\6297";
 }
+.icon-振:before {
+    content: "\632f";
+}
 .icon-挽:before {
     content: "\633d";
+}
+.icon-搾:before {
+    content: "\643e";
 }
 .icon-撃:before {
     content: "\6483";
@@ -480,11 +720,17 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-故:before {
     content: "\6545";
 }
+.icon-救:before {
+    content: "\6551";
+}
 .icon-散:before {
     content: "\6563";
 }
 .icon-文:before {
     content: "\6587";
+}
+.icon-斧:before {
+    content: "\65a7";
 }
 .icon-新:before {
     content: "\65b0";
@@ -525,8 +771,14 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-机:before {
     content: "\673a";
 }
+.icon-村:before {
+    content: "\6751";
+}
 .icon-来:before {
     content: "\6765";
+}
+.icon-杯:before {
+    content: "\676f";
 }
 .icon-東:before {
     content: "\6771";
@@ -537,14 +789,29 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-柔:before {
     content: "\67d4";
 }
+.icon-株:before {
+    content: "\682a";
+}
 .icon-械:before {
     content: "\68b0";
+}
+.icon-棉:before {
+    content: "\68c9";
 }
 .icon-棚:before {
     content: "\68da";
 }
 .icon-極:before {
     content: "\6975";
+}
+.icon-榎:before {
+    content: "\698e";
+}
+.icon-槌:before {
+    content: "\69cc";
+}
+.icon-槍:before {
+    content: "\69cd";
 }
 .icon-横:before {
     content: "\6a2a";
@@ -557,6 +824,9 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 }
 .icon-機:before {
     content: "\6a5f";
+}
+.icon-檸:before {
+    content: "\6ab8";
 }
 .icon-欽:before {
     content: "\6b3d";
@@ -582,6 +852,12 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-毎:before {
     content: "\6bce";
 }
+.icon-毛:before {
+    content: "\6bdb";
+}
+.icon-氏:before {
+    content: "\6c0f";
+}
 .icon-民:before {
     content: "\6c11";
 }
@@ -591,11 +867,32 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-汝:before {
     content: "\6c5d";
 }
+.icon-汪:before {
+    content: "\6c6a";
+}
+.icon-決:before {
+    content: "\6c7a";
+}
 .icon-油:before {
     content: "\6cb9";
 }
+.icon-泉:before {
+    content: "\6cc9";
+}
+.icon-洛:before {
+    content: "\6d1b";
+}
+.icon-浬:before {
+    content: "\6d6c";
+}
 .icon-海:before {
     content: "\6d77";
+}
+.icon-涙:before {
+    content: "\6d99";
+}
+.icon-淮:before {
+    content: "\6dee";
 }
 .icon-深:before {
     content: "\6df1";
@@ -606,8 +903,14 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-清:before {
     content: "\6e05";
 }
+.icon-湿:before {
+    content: "\6e7f";
+}
 .icon-満:before {
     content: "\6e80";
+}
+.icon-溜:before {
+    content: "\6e9c";
 }
 .icon-激:before {
     content: "\6fc0";
@@ -633,8 +936,20 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-牌:before {
     content: "\724c";
 }
+.icon-牛:before {
+    content: "\725b";
+}
+.icon-牡:before {
+    content: "\7261";
+}
 .icon-物:before {
     content: "\7269";
+}
+.icon-牲:before {
+    content: "\7272";
+}
+.icon-犛:before {
+    content: "\729b";
 }
 .icon-犬:before {
     content: "\72ac";
@@ -645,11 +960,23 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-獣:before {
     content: "\7363";
 }
+.icon-玄:before {
+    content: "\7384";
+}
+.icon-玉:before {
+    content: "\7389";
+}
 .icon-王:before {
     content: "\738b";
 }
+.icon-球:before {
+    content: "\7403";
+}
 .icon-琴:before {
     content: "\7434";
+}
+.icon-瑪:before {
+    content: "\746a";
 }
 .icon-甘:before {
     content: "\7518";
@@ -657,11 +984,17 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-生:before {
     content: "\751f";
 }
+.icon-産:before {
+    content: "\7523";
+}
 .icon-男:before {
     content: "\7537";
 }
 .icon-疲:before {
     content: "\75b2";
+}
+.icon-癒:before {
+    content: "\7652";
 }
 .icon-白:before {
     content: "\767d";
@@ -672,6 +1005,9 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-皇:before {
     content: "\7687";
 }
+.icon-皷:before {
+    content: "\76b7";
+}
 .icon-目:before {
     content: "\76ee";
 }
@@ -681,8 +1017,17 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-真:before {
     content: "\771f";
 }
+.icon-矢:before {
+    content: "\77e2";
+}
+.icon-短:before {
+    content: "\77ed";
+}
 .icon-石:before {
     content: "\77f3";
+}
+.icon-硫:before {
+    content: "\786b";
 }
 .icon-硬:before {
     content: "\786c";
@@ -705,6 +1050,9 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-秋:before {
     content: "\79cb";
 }
+.icon-科:before {
+    content: "\79d1";
+}
 .icon-種:before {
     content: "\7a2e";
 }
@@ -717,20 +1065,44 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-穐:before {
     content: "\7a50";
 }
+.icon-穴:before {
+    content: "\7a74";
+}
+.icon-窄:before {
+    content: "\7a84";
+}
 .icon-立:before {
     content: "\7acb";
 }
 .icon-端:before {
     content: "\7aef";
 }
+.icon-竹:before {
+    content: "\7af9";
+}
+.icon-竺:before {
+    content: "\7afa";
+}
 .icon-笑:before {
     content: "\7b11";
+}
+.icon-笙:before {
+    content: "\7b19";
+}
+.icon-笛:before {
+    content: "\7b1b";
 }
 .icon-筆:before {
     content: "\7b46";
 }
 .icon-等:before {
     content: "\7b49";
+}
+.icon-筒:before {
+    content: "\7b52";
+}
+.icon-箏:before {
+    content: "\7b8f";
 }
 .icon-箱:before {
     content: "\7bb1";
@@ -756,17 +1128,35 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-絵:before {
     content: "\7d75";
 }
+.icon-網:before {
+    content: "\7db2";
+}
 .icon-綿:before {
     content: "\7dbf";
 }
 .icon-縦:before {
     content: "\7e26";
 }
+.icon-織:before {
+    content: "\7e54";
+}
+.icon-纂:before {
+    content: "\7e82";
+}
 .icon-羅:before {
     content: "\7f85";
 }
+.icon-羊:before {
+    content: "\7f8a";
+}
 .icon-美:before {
     content: "\7f8e";
+}
+.icon-羚:before {
+    content: "\7f9a";
+}
+.icon-翰:before {
+    content: "\7ff0";
 }
 .icon-而:before {
     content: "\800c";
@@ -777,11 +1167,17 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-耳:before {
     content: "\8033";
 }
+.icon-聚:before {
+    content: "\805a";
+}
 .icon-聯:before {
     content: "\806f";
 }
 .icon-肉:before {
     content: "\8089";
+}
+.icon-育:before {
+    content: "\80b2";
 }
 .icon-背:before {
     content: "\80cc";
@@ -810,6 +1206,9 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-花:before {
     content: "\82b1";
 }
+.icon-茲:before {
+    content: "\8332";
+}
 .icon-茶:before {
     content: "\8336";
 }
@@ -824,6 +1223,9 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 }
 .icon-虫:before {
     content: "\866b";
+}
+.icon-蛋:before {
+    content: "\86cb";
 }
 .icon-蜜:before {
     content: "\871c";
@@ -855,6 +1257,15 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-言:before {
     content: "\8a00";
 }
+.icon-訴:before {
+    content: "\8a34";
+}
+.icon-詞:before {
+    content: "\8a5e";
+}
+.icon-試:before {
+    content: "\8a66";
+}
 .icon-認:before {
     content: "\8a8d";
 }
@@ -879,6 +1290,9 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-豊:before {
     content: "\8c4a";
 }
+.icon-貓:before {
+    content: "\8c93";
+}
 .icon-貝:before {
     content: "\8c9d";
 }
@@ -891,11 +1305,20 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-赤:before {
     content: "\8d64";
 }
+.icon-趙:before {
+    content: "\8d99";
+}
 .icon-足:before {
     content: "\8db3";
 }
+.icon-躍:before {
+    content: "\8e8d";
+}
 .icon-車:before {
     content: "\8eca";
+}
+.icon-軍:before {
+    content: "\8ecd";
 }
 .icon-軟:before {
     content: "\8edf";
@@ -930,6 +1353,9 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-連:before {
     content: "\9023";
 }
+.icon-遅:before {
+    content: "\9045";
+}
 .icon-遊:before {
     content: "\904a";
 }
@@ -939,11 +1365,20 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-遠:before {
     content: "\9060";
 }
+.icon-那:before {
+    content: "\90a3";
+}
 .icon-酒:before {
     content: "\9152";
 }
+.icon-醇:before {
+    content: "\9187";
+}
 .icon-金:before {
     content: "\91d1";
+}
+.icon-釘:before {
+    content: "\91d8";
 }
 .icon-針:before {
     content: "\91dd";
@@ -953,6 +1388,15 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 }
 .icon-錘:before {
     content: "\9318";
+}
+.icon-鍋:before {
+    content: "\934b";
+}
+.icon-鎖:before {
+    content: "\9396";
+}
+.icon-鑓:before {
+    content: "\9453";
 }
 .icon-長:before {
     content: "\9577";
@@ -966,11 +1410,17 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-開:before {
     content: "\958b";
 }
+.icon-閥:before {
+    content: "\95a5";
+}
 .icon-闇:before {
     content: "\95c7";
 }
 .icon-陸:before {
     content: "\9678";
+}
+.icon-隊:before {
+    content: "\968a";
 }
 .icon-集:before {
     content: "\96c6";
@@ -987,6 +1437,9 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-静:before {
     content: "\9759";
 }
+.icon-順:before {
+    content: "\9806";
+}
 .icon-須:before {
     content: "\9808";
 }
@@ -996,11 +1449,20 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-頭:before {
     content: "\982d";
 }
+.icon-顔:before {
+    content: "\9854";
+}
 .icon-類:before {
     content: "\985e";
 }
+.icon-顫:before {
+    content: "\986b";
+}
 .icon-風:before {
     content: "\98a8";
+}
+.icon-飛:before {
+    content: "\98db";
 }
 .icon-馬:before {
     content: "\99ac";
@@ -1017,8 +1479,14 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-鳥:before {
     content: "\9ce5";
 }
+.icon-鶏:before {
+    content: "\9d8f";
+}
 .icon-麗:before {
     content: "\9e97";
+}
+.icon-黍:before {
+    content: "\9ecd";
 }
 .icon-黒:before {
     content: "\9ed2";
@@ -1028,99 +1496,6 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 }
 .icon-龍:before {
     content: "\9f8d";
-}
-.icon-咍:before {
-    content: "\548d";
-}
-.icon-々:before {
-    content: "\3005";
-}
-.icon-躍:before {
-    content: "\8e8d";
-}
-.icon-多:before {
-    content: "\591a";
-}
-.icon-増:before {
-    content: "\5897";
-}
-.icon-exclamation:before {
-    content: "\21";
-}
-.icon-comma:before {
-    content: "\2c";
-}
-.icon-U-0022:before {
-    content: "\22";
-}
-.icon-U-002E:before {
-    content: "\2e";
-}
-.icon-U-003F:before {
-    content: "\3f";
-}
-.icon-a:before {
-    content: "\61";
-}
-.icon-b:before {
-    content: "\62";
-}
-.icon-c:before {
-    content: "\63";
-}
-.icon-d:before {
-    content: "\64";
-}
-.icon-e:before {
-    content: "\65";
-}
-.icon-i:before {
-    content: "\69";
-}
-.icon-j:before {
-    content: "\6a";
-}
-.icon-k:before {
-    content: "\6b";
-}
-.icon-l:before {
-    content: "\6c";
-}
-.icon-m:before {
-    content: "\6d";
-}
-.icon-n:before {
-    content: "\6e";
-}
-.icon-o:before {
-    content: "\6f";
-}
-.icon-p:before {
-    content: "\70";
-}
-.icon-t:before {
-    content: "\74";
-}
-.icon-u:before {
-    content: "\75";
-}
-.icon-w:before {
-    content: "\77";
-}
-.icon-x:before {
-    content: "\78";
-}
-.icon-z:before {
-    content: "\7a";
-}
-.icon-。:before {
-    content: "\3002";
-}
-.icon-「:before {
-    content: "\300c";
-}
-.icon-」:before {
-    content: "\300d";
 }
 .icon-！:before {
     content: "\ff01";

@@ -5,5 +5,8 @@
 ## パス化
 `npm install` の後に `node fix_glyphs.js rounded` とかでいけるはず
 
+## サイズ調整
+パス化をした後に `node fix_size.js rounded` とかでいけるはず
+
 ## フォント化
-パス化をした後に `node to_font.js rounded` でいけるはず
+サイズ調整をした後に `node to_font.js rounded` でいけるはず

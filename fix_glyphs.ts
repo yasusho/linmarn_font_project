@@ -15,7 +15,7 @@ await SVGFixer(`./${in_path}`, `./${fix_path}`, fix_options).fix();
 const files = fs.readdirSync(`${fix_path}/`);
 files.forEach(function (file, _index) {
     if (file.slice(-4) !== ".svg") return;
-    if (file.length > 6) {
+    if (file.length > 6 && !file.startsWith("U+")) {
       console.log(`Removing ${file}: file name too long`);
       fs.unlinkSync(`${fix_path}/${file}`);
       return;

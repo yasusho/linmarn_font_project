@@ -12,8 +12,8 @@ files.forEach((file, index) => {
     // U+002F.svg
     //   ^^^^
     const codepoint = file.slice(2, -4);
-    glyph_map[file.slice(-4)] = parseInt(codepoint, 16);
-    console.log(file.slice(-4), codepoint);
+    glyph_map[file.slice(0, -4)] = parseInt(codepoint, 16);
+    console.log(file.slice(0, -4), codepoint);
   } else {
     glyph_map[file[0]] = file.codePointAt(0)!;
     console.log(file[0], file.codePointAt(0)!.toString(16))
@@ -34,7 +34,33 @@ generateFonts({
   codepoints: glyph_map
 }).then(results => {
   console.log(results);
-  // copy the resulting fonts into docs/
-  // fs_extra.copy("fonts", "docs/fonts");
+
+  // CSS に入れると壊れる文字を CSS と HTML から除く
+  fs.readFile(`fonts/linzklar_${style_name}.html`, 'utf8', function (err,data) {
+    if (err) {
+      return console.log(err);
+    }
+    const result = data
+      .replace(/U\+/g, 'U-')
+      .replace(/icon-!/g, 'icon-exclamation')
+      .replace(/icon-,/g, 'icon-comma');
+    fs.writeFile(`fonts/linzklar_${style_name}.html`, result, 'utf8', function (err) {
+       if (err) return console.log(err);
+    });
+  });
+
+  fs.readFile(`fonts/linzklar_${style_name}.css`, 'utf8', function (err,data) {
+    if (err) {
+      return console.log(err);
+    }
+    const result = data
+      .replace(/U\+/g, 'U-')
+      .replace(/icon-!/g, 'icon-exclamation')
+      .replace(/icon-,/g, 'icon-comma');
+    fs.writeFile(`fonts/linzklar_${style_name}.css`, result, 'utf8', function (err) {
+       if (err) return console.log(err);
+    });
+  });
+
 });
 })();

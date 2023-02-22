@@ -1,7 +1,7 @@
 @font-face {
     font-family: "linzklar_rounded";
-    src: url("./linzklar_rounded.ttf?7926958a828807d16ad5ae48ad90cda4") format("truetype"),
-url("./linzklar_rounded.woff?7926958a828807d16ad5ae48ad90cda4") format("woff");
+    src: url("./linzklar_rounded.ttf?9031179351e48e24253e5ace831a3aab") format("truetype"),
+url("./linzklar_rounded.woff?9031179351e48e24253e5ace831a3aab") format("woff");
 }
 
 i[class^="icon-"]:before, i[class*=" icon-"]:before {
@@ -42,86 +42,8 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-8:before {
     content: "\38";
 }
-.icon-exclamation:before {
-    content: "\21";
-}
-.icon-comma:before {
-    content: "\2c";
-}
-.icon-a:before {
-    content: "\61";
-}
-.icon-b:before {
-    content: "\62";
-}
-.icon-c:before {
-    content: "\63";
-}
-.icon-d:before {
-    content: "\64";
-}
-.icon-e:before {
-    content: "\65";
-}
-.icon-i:before {
-    content: "\69";
-}
-.icon-j:before {
-    content: "\6a";
-}
-.icon-k:before {
-    content: "\6b";
-}
-.icon-l:before {
-    content: "\6c";
-}
-.icon-m:before {
-    content: "\6d";
-}
-.icon-n:before {
-    content: "\6e";
-}
-.icon-o:before {
-    content: "\6f";
-}
-.icon-p:before {
-    content: "\70";
-}
-.icon-t:before {
-    content: "\74";
-}
-.icon-U-0022:before {
-    content: "\22";
-}
-.icon-U-002E:before {
-    content: "\2e";
-}
-.icon-U-003F:before {
-    content: "\3f";
-}
-.icon-u:before {
-    content: "\75";
-}
-.icon-w:before {
-    content: "\77";
-}
-.icon-x:before {
-    content: "\78";
-}
-.icon-z:before {
-    content: "\7a";
-}
-.icon-。:before {
-    content: "\3002";
-}
-.icon-々:before {
-    content: "\3005";
-}
-.icon-「:before {
-    content: "\300c";
-}
-.icon-」:before {
-    content: "\300d";
+.icon-9:before {
+    content: "\39";
 }
 .icon-一:before {
     content: "\4e00";
@@ -330,9 +252,6 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-味:before {
     content: "\5473";
 }
-.icon-咍:before {
-    content: "\548d";
-}
 .icon-哩:before {
     content: "\54e9";
 }
@@ -372,9 +291,6 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-塩:before {
     content: "\5869";
 }
-.icon-増:before {
-    content: "\5897";
-}
 .icon-墨:before {
     content: "\58a8";
 }
@@ -392,9 +308,6 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 }
 .icon-夘:before {
     content: "\5918";
-}
-.icon-多:before {
-    content: "\591a";
 }
 .icon-大:before {
     content: "\5927";
@@ -981,9 +894,6 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-足:before {
     content: "\8db3";
 }
-.icon-躍:before {
-    content: "\8e8d";
-}
 .icon-車:before {
     content: "\8eca";
 }
@@ -1118,6 +1028,99 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 }
 .icon-龍:before {
     content: "\9f8d";
+}
+.icon-咍:before {
+    content: "\548d";
+}
+.icon-々:before {
+    content: "\3005";
+}
+.icon-躍:before {
+    content: "\8e8d";
+}
+.icon-多:before {
+    content: "\591a";
+}
+.icon-増:before {
+    content: "\5897";
+}
+.icon-exclamation:before {
+    content: "\21";
+}
+.icon-comma:before {
+    content: "\2c";
+}
+.icon-U-0022:before {
+    content: "\22";
+}
+.icon-U-002E:before {
+    content: "\2e";
+}
+.icon-U-003F:before {
+    content: "\3f";
+}
+.icon-a:before {
+    content: "\61";
+}
+.icon-b:before {
+    content: "\62";
+}
+.icon-c:before {
+    content: "\63";
+}
+.icon-d:before {
+    content: "\64";
+}
+.icon-e:before {
+    content: "\65";
+}
+.icon-i:before {
+    content: "\69";
+}
+.icon-j:before {
+    content: "\6a";
+}
+.icon-k:before {
+    content: "\6b";
+}
+.icon-l:before {
+    content: "\6c";
+}
+.icon-m:before {
+    content: "\6d";
+}
+.icon-n:before {
+    content: "\6e";
+}
+.icon-o:before {
+    content: "\6f";
+}
+.icon-p:before {
+    content: "\70";
+}
+.icon-t:before {
+    content: "\74";
+}
+.icon-u:before {
+    content: "\75";
+}
+.icon-w:before {
+    content: "\77";
+}
+.icon-x:before {
+    content: "\78";
+}
+.icon-z:before {
+    content: "\7a";
+}
+.icon-。:before {
+    content: "\3002";
+}
+.icon-「:before {
+    content: "\300c";
+}
+.icon-」:before {
+    content: "\300d";
 }
 .icon-！:before {
     content: "\ff01";

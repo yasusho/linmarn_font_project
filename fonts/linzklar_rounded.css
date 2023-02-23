@@ -1,7 +1,7 @@
 @font-face {
     font-family: "linzklar_rounded";
-    src: url("./linzklar_rounded.ttf?1f89e80d01aff10dfab7875a83a7e4f8") format("truetype"),
-url("./linzklar_rounded.woff?1f89e80d01aff10dfab7875a83a7e4f8") format("woff");
+    src: url("./linzklar_rounded.ttf?03b552ea7cbef711cf059c2e89984274") format("truetype"),
+url("./linzklar_rounded.woff?03b552ea7cbef711cf059c2e89984274") format("woff");
 }
 
 i[class^="icon-"]:before, i[class*=" icon-"]:before {

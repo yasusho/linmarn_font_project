@@ -10,3 +10,6 @@
 
 ## フォント化
 サイズ調整をした後に `node to_font.js rounded` でいけるはず
+
+## 定義済みグリフの一覧ができるページ
+- rounded: https://yasusho.github.io/linmarn_font_project/fonts/linzklar_rounded.html

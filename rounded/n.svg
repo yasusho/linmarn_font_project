@@ -24,8 +24,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.472"
-     inkscape:cx="537.07627"
-     inkscape:cy="509.5339"
+     inkscape:cx="225.63559"
+     inkscape:cy="511.65254"
      inkscape:window-width="1920"
      inkscape:window-height="1191"
      inkscape:window-x="-9"
@@ -34,12 +34,12 @@
      inkscape:current-layer="svg5"
      showguides="true">
     <sodipodi:guide
-       position="105.83333,65.603438"
+       position="13.229168,39.687545"
        orientation="0,-1"
        id="guide839"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="105.83333,198.43749"
+       position="104.26377,224.89583"
        orientation="0,-1"
        id="guide841"
        inkscape:locked="false" />
@@ -57,19 +57,19 @@
   <defs
      id="defs2" />
   <path
-     style="fill:none;stroke:#000000;stroke-width:15.0001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5;paint-order:fill markers stroke"
-     d="m 14.114631,73.64589 v 93.33046 23.96111"
+     style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5;paint-order:fill markers stroke"
+     d="M 20.729168,47.187584 V 182.6245 217.39578"
      id="path1639"
      sodipodi:nodetypes="ccc" />
   <ellipse
      style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5;paint-order:fill markers stroke"
      id="path2004"
-     cx="79.546982"
-     cy="132.29167"
-     rx="38.6301"
-     ry="58.645832" />
+     cx="77.843315"
+     cy="132.29166"
+     rx="33.719181"
+     ry="85.104164" />
   <path
      style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5;paint-order:fill markers stroke"
-     d="M 14.114631,132.29167 H 40.916879"
+     d="M 20.729168,132.29167 H 44.124133"
      id="path2006" />
 </svg>

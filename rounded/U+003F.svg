@@ -7,7 +7,7 @@
    viewBox="0 0 132.29166 264.58333"
    version="1.1"
    id="svg5"
-   sodipodi:docname="63.svg"
+   sodipodi:docname="U+003F.svg"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,7 +24,7 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.3337544"
-     inkscape:cx="-220.22182"
+     inkscape:cx="-663.66166"
      inkscape:cy="519.84333"
      inkscape:window-width="1920"
      inkscape:window-height="1191"
@@ -36,10 +36,10 @@
      id="defs2" />
   <path
      style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5"
-     d="m 102.01764,53.80208 -75.854404,97.99674 c -22.330021,25.45847 -10.512288,58.98246 9.66792,58.98243 l 82.301554,-3e-5 -14.06176,-40.97901"
+     d="m 97.491697,53.80208 -66.207532,97.99674 c -19.490174,25.45847 -9.175375,58.98246 8.438391,58.98243 l 71.834754,-3e-5 -12.273435,-40.97901"
      id="path3106" />
   <path
      style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5"
-     d="M 26.262941,53.80208 H 102.01764"
+     d="M 31.371191,53.80208 H 97.491697"
      id="path3527" />
 </svg>

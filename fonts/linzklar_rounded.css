@@ -1,7 +1,7 @@
 @font-face {
     font-family: "linzklar_rounded";
-    src: url("./linzklar_rounded.ttf?ca3a207ffef8e8722769f43896cd1cb8") format("truetype"),
-url("./linzklar_rounded.woff?ca3a207ffef8e8722769f43896cd1cb8") format("woff");
+    src: url("./linzklar_rounded.ttf?c0652ec443fa236f6423581c16d2abc2") format("truetype"),
+url("./linzklar_rounded.woff?c0652ec443fa236f6423581c16d2abc2") format("woff");
 }
 
 i[class^="icon-"]:before, i[class*=" icon-"]:before {
@@ -1505,4 +1505,58 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 }
 .icon-Ⅽ:before {
     content: "\216d";
+}
+.icon--:before {
+    content: "\2d";
+}
+.icon-U-002F:before {
+    content: "\2f";
+}
+.icon-あ:before {
+    content: "\3042";
+}
+.icon-ぁ:before {
+    content: "\3041";
+}
+.icon-え:before {
+    content: "\3048";
+}
+.icon-ぇ:before {
+    content: "\3047";
+}
+.icon-う:before {
+    content: "\3046";
+}
+.icon-ぅ:before {
+    content: "\3045";
+}
+.icon-い:before {
+    content: "\3044";
+}
+.icon-ぃ:before {
+    content: "\3043";
+}
+.icon-お:before {
+    content: "\304a";
+}
+.icon-ぉ:before {
+    content: "\3049";
+}
+.icon-か:before {
+    content: "\304b";
+}
+.icon-き:before {
+    content: "\304d";
+}
+.icon-く:before {
+    content: "\304f";
+}
+.icon-け:before {
+    content: "\3051";
+}
+.icon-こ:before {
+    content: "\3053";
+}
+.icon-:before {
+    content: "\f101";
 }

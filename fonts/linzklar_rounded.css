@@ -1,7 +1,7 @@
 @font-face {
     font-family: "linzklar_rounded";
-    src: url("./linzklar_rounded.ttf?23585d67466a9d5a50c00225ac97d305") format("truetype"),
-url("./linzklar_rounded.woff?23585d67466a9d5a50c00225ac97d305") format("woff");
+    src: url("./linzklar_rounded.ttf?982bc8059f88d27cabbea02c5dfbed44") format("truetype"),
+url("./linzklar_rounded.woff?982bc8059f88d27cabbea02c5dfbed44") format("woff");
 }
 
 i[class^="icon-"]:before, i[class*=" icon-"]:before {
@@ -1556,6 +1556,9 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 }
 .icon-こ:before {
     content: "\3053";
+}
+.icon-U-002D:before {
+    content: "\2d";
 }
 .icon-:before {
     content: "\f101";

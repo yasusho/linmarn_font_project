@@ -27,4 +27,4 @@ $ node fix_size.js example
 $ node to_font.js example
 ```
 
-2. "fonts/exapmle" フォルダに html, css, ttf, woff, json の 5 ファイルが作成される
+2. "fonts/example" フォルダに html, css, ttf, woff, json の 5 ファイルが作成される

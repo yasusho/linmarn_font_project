@@ -1,6 +1,6 @@
 import * as fs from 'fs';
 const in_path = process.argv[2] ?? (() => { throw new Error("入力パスを node fix_size.js rounded のような形で指定して実行してください。") })()
-const fix_path = `${in_path}_fixed`
+const fix_path = `${in_path}/fixed`
 const files = fs.readdirSync(`${fix_path}/`);
 files.forEach(function (file, _index) {
     if (file.slice(-4) !== ".svg") return;

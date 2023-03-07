@@ -1,15 +1,30 @@
 # linmarn_font_project
 燐字のフォント作成用のファイルセット。
+
 "fileset" フォルダにリネーム済みの空のsvgが置かれている。
 
-## パス化
-`npm install` の後に `node fix_glyphs.js rounded` とかでいけるはず
+## フォント一覧
+### rounded
+丸ゴシック。等幅ペメセペ・ルヨットと半角燐数字を備える。
+- [定義済グリフ一覧](https://yasusho.github.io/linmarn_font_project/fonts/rounded/linzklar_rounded.html)
+- woffファイルパス: `https://yasusho.github.io/linmarn_font_project/fonts/rounded/linzklar_rounded.woff`
 
-## サイズ調整
-パス化をした後に `node fix_size.js rounded` とかでいけるはず
+## フォントファイル出力
+（"example" フォルダのsvgを統合したい場合の例）
 
-## フォント化
-サイズ調整をした後に `node to_font.js rounded` でいけるはず
+1. 以下のコマンドを順に実行
+```
+// ライブラリのインストール
+$ npm install
 
-## 定義済みグリフの一覧ができるページ
-- rounded: https://yasusho.github.io/linmarn_font_project/fonts/linzklar_rounded.html
+// パス化 (ストロークフォントでない場合は不要)
+$ node fix_glyphs.js example
+
+// サイズ調整
+$ node fix_size.js example
+
+// フォント化
+$ node to_font.js example
+```
+
+2. "fonts/example" フォルダに html, css, ttf, woff, json の 5 ファイルが作成される

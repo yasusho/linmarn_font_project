@@ -25,7 +25,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.2973261"
-     inkscape:cx="-242.15836"
+     inkscape:cx="-738.24666"
      inkscape:cy="496.0883"
      inkscape:window-width="1920"
      inkscape:window-height="1191"
@@ -95,15 +95,12 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
-       d="m 193.39291,139.79172 -61.10124,73.91132"
-       id="path1542" />
-    <path
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
        d="M 160.05106,243.85421 104.66118,183.83599"
        id="path1546" />
     <path
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
-       d="M 193.39284,139.79172 H 79.675988"
-       id="path1564" />
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
+       d="M 79.675988,139.79172 H 193.39287 l -61.1012,73.91132"
+       id="path1564"
+       sodipodi:nodetypes="ccc" />
   </g>
 </svg>

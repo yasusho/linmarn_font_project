@@ -4,7 +4,7 @@
 "fileset" フォルダにリネーム済みの空のsvgが置かれている。
 
 ## フォント一覧
-### rounded
+### rounded【骨軸倉字】
 丸ゴシック。等幅ペメセペ・ルヨットと半角燐数字を備える。
 - [定義済グリフ一覧](https://yasusho.github.io/linmarn_font_project/fonts/rounded/linzklar_rounded.html)
 - woffファイルパス: `https://yasusho.github.io/linmarn_font_project/fonts/rounded/linzklar_rounded.woff`

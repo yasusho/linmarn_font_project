@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      showguides="true"
-     inkscape:zoom="0.3337544"
-     inkscape:cx="498.86983"
-     inkscape:cy="633.69951"
+     inkscape:zoom="0.472"
+     inkscape:cx="272.24576"
+     inkscape:cy="570.97458"
      inkscape:window-width="1920"
      inkscape:window-height="1191"
      inkscape:window-x="-9"
@@ -40,13 +40,10 @@
      d="M 58.231714,90.742651 V 234.8704"
      id="path2437" />
   <path
-     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
-     d="M 206.35163,90.742651 V 234.8704"
-     id="path2441" />
-  <path
-     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
-     d="M 206.35163,90.742651 H 58.231714"
-     id="path2443" />
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
+     d="M 206.35163,234.8704 V 90.742651 H 58.231714"
+     id="path2441"
+     sodipodi:nodetypes="ccc" />
   <path
      style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
      d="M 206.35163,222.39237 H 58.231714"
@@ -64,11 +61,8 @@
      d="M 34.859298,37.623525 V 79.791959"
      id="path32828" />
   <path
-     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
-     d="M 229.72404,37.623525 V 79.791959"
-     id="path32830" />
-  <path
-     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
-     d="M 229.72404,37.623525 H 34.859298"
-     id="path32832" />
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
+     d="M 34.859298,37.623525 H 229.72404 v 42.168434"
+     id="path32832"
+     sodipodi:nodetypes="ccc" />
 </svg>

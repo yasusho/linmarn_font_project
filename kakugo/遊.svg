@@ -7,22 +7,42 @@
    viewBox="0 0 264.58333 264.58333"
    version="1.1"
    id="svg5"
+   sodipodi:docname="遊.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1340"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.236"
+     inkscape:cx="-125"
+     inkscape:cy="502.11864"
+     inkscape:window-width="1920"
+     inkscape:window-height="1191"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
   <defs
      id="defs2" />
-  <path
-     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15.0001;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
-     d="M 52.705595,176.92771 H 211.94132"
-     id="path2429" />
   <path
      style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:14.9998;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
      d="m 132.32349,80.054519 v 92.094721 c 0,26.85564 -24.20851,71.705 -93.771815,71.705"
      id="path2431" />
   <path
-     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15.0001;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
-     d="M 52.705595,176.92771 V 118.98426"
-     id="path2433" />
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:15.0001;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
+     d="m 52.705595,118.98426 v 57.94345 H 211.94132"
+     id="path2433"
+     sodipodi:nodetypes="ccc" />
   <path
      style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15.0001;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
      d="M 211.94132,187.78588 V 118.98426"

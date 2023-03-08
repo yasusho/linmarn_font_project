@@ -7,8 +7,31 @@
    viewBox="0 0 264.58333 264.58333"
    version="1.1"
    id="svg5"
+   sodipodi:docname="耒.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview325"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.236"
+     inkscape:cx="-125"
+     inkscape:cy="502.11864"
+     inkscape:window-width="1920"
+     inkscape:window-height="1191"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
   <defs
      id="defs2" />
   <path
@@ -16,17 +39,10 @@
      d="m 72.226939,30.819213 c 0,94.707767 2.882681,169.049897 -18.566589,202.944907"
      id="path3677" />
   <path
-     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:14.9999;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
-     d="M 189.75633,30.819213 V 233.76412"
-     id="path3679" />
-  <path
-     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:14.9999;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
-     d="M 189.75633,30.819213 H 72.226939"
-     id="path3681" />
-  <path
-     style="fill:none;stroke:#000000;stroke-width:14.9999;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
-     d="M 189.75633,233.76412 168.96378,206.69074"
-     id="path3717" />
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:14.9999;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
+     d="M 72.226939,30.819213 H 189.75633 V 233.76412 l -20.79255,-27.07338"
+     id="path3681"
+     sodipodi:nodetypes="cccc" />
   <path
      style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.5"
      d="M 20.28472,127.99227 H 244.29861"

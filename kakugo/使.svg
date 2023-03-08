@@ -24,7 +24,7 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.472"
-     inkscape:cx="545.55085"
+     inkscape:cx="236.22881"
      inkscape:cy="475.63559"
      inkscape:window-width="1920"
      inkscape:window-height="1191"
@@ -35,17 +35,14 @@
   <defs
      id="defs2" />
   <path
-     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
-     d="M 33.398753,164.94776 H 240.19298"
-     id="path2429" />
-  <path
      style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:14.9999;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
      d="m 136.7959,100.46057 v 70.27137 c 0,20.49176 -27.68309,67.0456 -107.230592,67.0456"
      id="path2431" />
   <path
-     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
-     d="M 33.398753,164.94776 V 122.32702"
-     id="path2433" />
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
+     d="m 33.398753,122.32702 v 42.62074 H 240.19298"
+     id="path2433"
+     sodipodi:nodetypes="ccc" />
   <path
      style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
      d="M 240.19298,178.75541 V 122.85619"

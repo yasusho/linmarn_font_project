@@ -24,7 +24,7 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.236"
-     inkscape:cx="-235.16949"
+     inkscape:cx="-858.05085"
      inkscape:cy="502.11864"
      inkscape:window-width="1920"
      inkscape:window-height="1191"
@@ -35,13 +35,10 @@
   <defs
      id="defs2" />
   <path
-     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15.0002;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
-     d="M 74.891407,158.98247 H 189.69188"
-     id="path2457" />
-  <path
-     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15.0002;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
-     d="M 74.89132,158.98247 V 28.206508"
-     id="path2461" />
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:15.0002;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
+     d="M 189.69188,158.98247 H 74.891363 L 74.89132,28.206508"
+     id="path2457"
+     sodipodi:nodetypes="ccc" />
   <path
      style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15.0002;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
      d="M 189.69188,168.24909 V 28.206508"

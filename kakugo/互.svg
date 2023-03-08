@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000"
+   height="1000"
+   viewBox="0 0 264.58333 264.58333"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <g
+     id="g509"
+     transform="matrix(0.90548275,0,0,0.95278029,17.999818,-3.6712731)"
+     style="stroke-width:1.07662">
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:16.1492;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
+       d="M 17.571262,248.98069 193.6183,205.28615"
+       id="path1542" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:16.1492;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
+       d="M 230.77414,248.98066 156.89985,161.85487"
+       id="path1546" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:16.1493;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
+       d="M 17.571305,248.98064 111.93677,115.93704"
+       id="path1564" />
+  </g>
+  <g
+     id="g504"
+     transform="matrix(0.90548275,0,0,0.95278029,17.999818,-3.6712731)"
+     style="stroke-width:1.07662">
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:16.1492;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
+       d="M 235.02837,36.42186 118.10286,100.93709"
+       id="path1542-8" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:16.1492;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
+       d="M 171.22421,127.25524 65.228173,74.866931"
+       id="path1546-4" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:16.1493;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
+       d="M 235.02831,36.421859 H 17.415688"
+       id="path1564-2" />
+  </g>
+</svg>

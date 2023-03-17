@@ -28,3 +28,15 @@ $ node to_font.js example
 ```
 
 2. "fonts/example" フォルダに html, css, ttf, woff, json の 5 ファイルが作成される
+
+## 角ゴ化作業
+
+```
+$ node to_kakugo.js
+```
+
+を走らせ、できた kakugo フォルダをエクスプローラなどで一覧表示する。
+
+角ゴの方で「折れたストローク」となるべきところを見つけたら、**roundedの方を**いじってもう一度 `node to_kakugo.js` を走らせる。
+
+なべぶたのような、「折れたストローク」では解決しないやつは、一旦無視。

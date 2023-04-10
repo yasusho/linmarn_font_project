@@ -4,10 +4,24 @@
 "fileset" フォルダにリネーム済みの空のsvgが置かれている。
 
 ## フォント一覧
+
+命名の経緯については [AIL-MO-LETI-CEP/issues/issues/128](https://github.com/AIL-MO-LETI-CEP/issues/issues/128) のログも参照のこと。
+
 ### rounded【骨軸倉字】
+
+状態：良
+
 丸ゴシック。等幅ペメセペ・ルヨットと半角燐数字を備える。
 - [定義済グリフ一覧](https://yasusho.github.io/linmarn_font_project/fonts/rounded/linzklar_rounded.html)
 - woffファイルパス: `https://yasusho.github.io/linmarn_font_project/fonts/rounded/linzklar_rounded.woff`
+
+### kakugo【硬骨軸倉字】
+
+状態：可
+
+角ゴシック。燐字については、後述の「角ゴ化作業」で対処する。等幅ペメセペ・ルヨットと半角燐数字についてはこの方法が効かないため、手作業で作り直す必要が出てくるが、できていない。
+
+<hr>
 
 ## フォントファイル出力
 （"example" フォルダのsvgを統合したい場合の例）

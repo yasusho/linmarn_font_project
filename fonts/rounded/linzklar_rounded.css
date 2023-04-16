@@ -1,7 +1,7 @@
 @font-face {
     font-family: "linzklar_rounded";
-    src: url("./linzklar_rounded.ttf?a5c61716570e6ff5a9380f9e6fe36908") format("truetype"),
-url("./linzklar_rounded.woff?a5c61716570e6ff5a9380f9e6fe36908") format("woff");
+    src: url("./linzklar_rounded.ttf?4eaf7adfcabc83be7e135fcf59b31fd4") format("truetype"),
+url("./linzklar_rounded.woff?4eaf7adfcabc83be7e135fcf59b31fd4") format("woff");
 }
 
 i[class^="icon-"]:before, i[class*=" icon-"]:before {
@@ -1565,6 +1565,27 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 }
 .icon-U-0020:before {
     content: "\20";
+}
+.icon-g:before {
+    content: "\67";
+}
+.icon-(:before {
+    content: "\28";
+}
+.icon-):before {
+    content: "\29";
+}
+.icon-[:before {
+    content: "\5b";
+}
+.icon-]:before {
+    content: "\5d";
+}
+.icon-}:before {
+    content: "\7d";
+}
+.icon-{:before {
+    content: "\7b";
 }
 .icon-:before {
     content: "\f101";

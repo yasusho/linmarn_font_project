@@ -26,8 +26,8 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const fantasticon_1 = require("fantasticon");
 const fs = __importStar(require("fs"));
 (async function () {
-    const style_name = process.argv[2] ?? (() => { throw new Error("スタイル名を node fix_glyphs.js rounded のような形で指定して実行してください。"); })();
-    const fix_path = `${style_name}/fixed`;
+    const style_name = process.argv[2] ?? (() => { throw new Error("スタイル名およびフォルダを node fix_glyphs.js rounded rounded/fixed のような形で指定して実行してください。"); })();
+    const fix_path = process.argv[3] ?? (() => { throw new Error("スタイル名およびフォルダを node fix_glyphs.js rounded rounded/fixed のような形で指定して実行してください。"); })();
     const out_path = `fonts/${style_name}`;
     const glyph_map = {};
     const files = fs.readdirSync(`${fix_path}/`);
@@ -83,9 +83,15 @@ const fs = __importStar(require("fs"));
                 return console.log(err);
             }
             const result = data
-                .replace(/U\+/g, 'U-')
-                .replace(/icon-!/g, 'icon-exclamation')
-                .replace(/icon-,/g, 'icon-comma');
+                .replaceAll('U+', 'U-')
+                .replaceAll('icon-!', 'icon-exclamation')
+                .replaceAll('icon-,', 'icon-comma')
+                .replaceAll('icon-(', 'icon-left-paren')
+                .replaceAll('icon-)', 'icon-right-paren')
+                .replaceAll('icon-[', 'icon-left-square-bracket')
+                .replaceAll('icon-]', 'icon-right-square-bracket')
+                .replaceAll('icon-{', 'icon-left-curly-brace')
+                .replaceAll('icon-}', 'icon-right-curly-brace');
             fs.writeFile(`${out_path}/linzklar_${style_name}.css`, result, 'utf8', function (err) {
                 if (err)
                     return console.log(err);

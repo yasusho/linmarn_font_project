@@ -30,21 +30,36 @@
 <hr>
 
 ## フォントファイル出力
-（"example" フォルダのsvgを統合したい場合の例）
 
 1. 以下のコマンドを順に実行
-```
-// ライブラリのインストール
+
+元の SVG データがストロークで書かれているフォントの場合:
+（`example` フォルダのsvgを統合したい場合の例なので、適宜 `example` を `rounded` とかに読み替えて実行すること）
+
+```bash
+# ライブラリのインストール
 $ npm install
 
-// パス化 (ストロークフォントでない場合は不要)
+# パス化
 $ node fix_glyphs.js example
+# これにより example フォルダから svg ファイルが読まれて example/fixed フォルダに出力される
 
-// サイズ調整
-$ node fix_size.js example
+# サイズ調整
+$ node fix_size.js example/fixed
+# これにより example/fixed フォルダ内の svg ファイルが上書きされ、サイズがアドホックに直される
+# このプロセスが必要なのは、px と mm 周りでの面倒が存在するから
+# 詳しくは https://github.com/yasusho/linmarn_font_project/issues/9
 
-// フォント化
-$ node to_font.js example
+# フォント化
+$ node to_font.js example example/fixed
+# 最初の example はフォント名であり、出力したフォントファイルに埋め込まれたりする
+# 次の example/fixed は svg が入っているフォルダの場所である
+```
+
+元の SVG データが閉じたパスで書かれているフォントの場合:
+
+```bash
+# todo: 書いて試す
 ```
 
 2. "fonts/example" フォルダに html, css, ttf, woff, json の 5 ファイルが作成される

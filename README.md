@@ -3,6 +3,30 @@
 
 "fileset" フォルダにリネーム済みの空のsvgが置かれている。
 
+## 開発者のための注意
+
+package.json にある
+
+```json
+  "overrides": {
+    "fantasticon": {
+      "glob": "7.2.0"
+    }
+  }
+```
+
+は https://github.com/tancredi/fantasticon/issues/470 を避けるためのもの。
+
+以下のコマンドを実行していて No SVGs found というエラーに直面したら、package-lock.json と node_modules/ を一度全削除してから npm install してください。
+
+https://github.com/npm/cli/issues/4232 によれば
+
+```bash
+npm uninstall fantasticon && npm install fantasticon
+```
+
+でもできるらしいです。
+
 ## フォント一覧
 
 命名の経緯については [AIL-MO-LETI-CEP/issues/issues/128](https://github.com/AIL-MO-LETI-CEP/issues/issues/128) のログも参照のこと。

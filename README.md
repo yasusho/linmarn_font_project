@@ -25,17 +25,19 @@
 
 ### kakugo【硬骨軸倉字】
 
-- [] グリフ充実
-- [] フォントファイル作成
+- [ ] グリフ充実
+- [ ] フォントファイル作成
 
 角ゴシック。燐字については、後述の「角ゴ化作業」で対処する。等幅ペメセペ・ルヨットと半角燐数字についてはこの方法が効かないため、手作業で作り直す必要が出てくるが、できていない。したがってフォントファイルもまだ作っていない。
 
 ### herm_giaru【美門倉官字】
 
-- [] グリフ充実
+- [ ] グリフ充実
 - [x] フォントファイル作成
 
 楷書フォント。[84字燐字紹介PDF](https://github.com/yasusho/linmarn_table_pdf)に由来する。よってまだ 84 字しかない。
+- [定義済グリフ一覧](https://yasusho.github.io/linmarn_font_project/fonts/herm_giaru/linzklar_herm_giaru.html)
+- woffファイルパス: `https://yasusho.github.io/linmarn_font_project/fonts/herm_giaru/linzklar_herm_giaru.woff`
 
 <hr>
 

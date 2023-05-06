@@ -1,0 +1,269 @@
+@font-face {
+    font-family: "linzklar_herm_giaru";
+    src: url("./linzklar_herm_giaru.ttf?05cfe006a448999cb87e14631b54c385") format("truetype"),
+url("./linzklar_herm_giaru.woff?05cfe006a448999cb87e14631b54c385") format("woff");
+}
+
+i[class^="icon-"]:before, i[class*=" icon-"]:before {
+    font-family: linzklar_herm_giaru !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-一:before {
+    content: "\4e00";
+}
+.icon-七:before {
+    content: "\4e03";
+}
+.icon-三:before {
+    content: "\4e09";
+}
+.icon-上:before {
+    content: "\4e0a";
+}
+.icon-下:before {
+    content: "\4e0b";
+}
+.icon-与:before {
+    content: "\4e0e";
+}
+.icon-之:before {
+    content: "\4e4b";
+}
+.icon-乎:before {
+    content: "\4e4e";
+}
+.icon-九:before {
+    content: "\4e5d";
+}
+.icon-二:before {
+    content: "\4e8c";
+}
+.icon-五:before {
+    content: "\4e94";
+}
+.icon-人:before {
+    content: "\4eba";
+}
+.icon-何:before {
+    content: "\4f55";
+}
+.icon-入:before {
+    content: "\5165";
+}
+.icon-全:before {
+    content: "\5168";
+}
+.icon-八:before {
+    content: "\516b";
+}
+.icon-六:before {
+    content: "\516d";
+}
+.icon-其:before {
+    content: "\5176";
+}
+.icon-冠:before {
+    content: "\51a0";
+}
+.icon-処:before {
+    content: "\51e6";
+}
+.icon-別:before {
+    content: "\5225";
+}
+.icon-力:before {
+    content: "\529b";
+}
+.icon-加:before {
+    content: "\52a0";
+}
+.icon-十:before {
+    content: "\5341";
+}
+.icon-即:before {
+    content: "\5373";
+}
+.icon-受:before {
+    content: "\53d7";
+}
+.icon-口:before {
+    content: "\53e3";
+}
+.icon-右:before {
+    content: "\53f3";
+}
+.icon-同:before {
+    content: "\540c";
+}
+.icon-善:before {
+    content: "\5584";
+}
+.icon-噫:before {
+    content: "\566b";
+}
+.icon-四:before {
+    content: "\56db";
+}
+.icon-国:before {
+    content: "\56fd";
+}
+.icon-在:before {
+    content: "\5728";
+}
+.icon-地:before {
+    content: "\5730";
+}
+.icon-多:before {
+    content: "\591a";
+}
+.icon-大:before {
+    content: "\5927";
+}
+.icon-始:before {
+    content: "\59cb";
+}
+.icon-学:before {
+    content: "\5b66";
+}
+.icon-小:before {
+    content: "\5c0f";
+}
+.icon-少:before {
+    content: "\5c11";
+}
+.icon-左:before {
+    content: "\5de6";
+}
+.icon-彼:before {
+    content: "\5f7c";
+}
+.icon-心:before {
+    content: "\5fc3";
+}
+.icon-悪:before {
+    content: "\60aa";
+}
+.icon-我:before {
+    content: "\6211";
+}
+.icon-手:before {
+    content: "\624b";
+}
+.icon-故:before {
+    content: "\6545";
+}
+.icon-於:before {
+    content: "\65bc";
+}
+.icon-日:before {
+    content: "\65e5";
+}
+.icon-星:before {
+    content: "\661f";
+}
+.icon-時:before {
+    content: "\6642";
+}
+.icon-月:before {
+    content: "\6708";
+}
+.icon-来:before {
+    content: "\6765";
+}
+.icon-極:before {
+    content: "\6975";
+}
+.icon-此:before {
+    content: "\6b64";
+}
+.icon-母:before {
+    content: "\6bcd";
+}
+.icon-水:before {
+    content: "\6c34";
+}
+.icon-汝:before {
+    content: "\6c5d";
+}
+.icon-火:before {
+    content: "\706b";
+}
+.icon-為:before {
+    content: "\70ba";
+}
+.icon-無:before {
+    content: "\7121";
+}
+.icon-父:before {
+    content: "\7236";
+}
+.icon-片:before {
+    content: "\7247";
+}
+.icon-生:before {
+    content: "\751f";
+}
+.icon-白:before {
+    content: "\767d";
+}
+.icon-百:before {
+    content: "\767e";
+}
+.icon-皇:before {
+    content: "\7687";
+}
+.icon-神:before {
+    content: "\795e";
+}
+.icon-筆:before {
+    content: "\7b46";
+}
+.icon-等:before {
+    content: "\7b49";
+}
+.icon-終:before {
+    content: "\7d42";
+}
+.icon-而:before {
+    content: "\800c";
+}
+.icon-色:before {
+    content: "\8272";
+}
+.icon-行:before {
+    content: "\884c";
+}
+.icon-言:before {
+    content: "\8a00";
+}
+.icon-貧:before {
+    content: "\8ca7";
+}
+.icon-赤:before {
+    content: "\8d64";
+}
+.icon-足:before {
+    content: "\8db3";
+}
+.icon-銭:before {
+    content: "\92ad";
+}
+.icon-青:before {
+    content: "\9752";
+}
+.icon-須:before {
+    content: "\9808";
+}
+.icon-風:before {
+    content: "\98a8";
+}
+.icon-黒:before {
+    content: "\9ed2";
+}

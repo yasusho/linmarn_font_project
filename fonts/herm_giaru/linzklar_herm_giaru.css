@@ -1,7 +1,7 @@
 @font-face {
     font-family: "linzklar_herm_giaru";
-    src: url("./linzklar_herm_giaru.ttf?ca34cbe927ff945e8b0acc6785dfd8cf") format("truetype"),
-url("./linzklar_herm_giaru.woff?ca34cbe927ff945e8b0acc6785dfd8cf") format("woff");
+    src: url("./linzklar_herm_giaru.ttf?925c92369437bde730063f35053d9a7e") format("truetype"),
+url("./linzklar_herm_giaru.woff?925c92369437bde730063f35053d9a7e") format("woff");
 }
 
 i[class^="icon-"]:before, i[class*=" icon-"]:before {

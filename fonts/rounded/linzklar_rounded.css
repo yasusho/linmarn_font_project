@@ -1,7 +1,7 @@
 @font-face {
     font-family: "linzklar_rounded";
-    src: url("./linzklar_rounded.ttf?fb8c2f836853169b07b31640ebd3f505") format("truetype"),
-url("./linzklar_rounded.woff?fb8c2f836853169b07b31640ebd3f505") format("woff");
+    src: url("./linzklar_rounded.ttf?7b2075eb9b8c22bd4eb08125cfcad8d9") format("truetype"),
+url("./linzklar_rounded.woff?7b2075eb9b8c22bd4eb08125cfcad8d9") format("woff");
 }
 
 i[class^="icon-"]:before, i[class*=" icon-"]:before {
@@ -48,17 +48,26 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-exclamation:before {
     content: "\21";
 }
-.icon-left-paren:before {
-    content: "\28";
-}
-.icon-right-paren:before {
-    content: "\29";
-}
 .icon-comma:before {
     content: "\2c";
 }
 .icon--:before {
     content: "\2d";
+}
+.icon-U-0022:before {
+    content: "\22";
+}
+.icon-U-002D:before {
+    content: "\2d";
+}
+.icon-U-002E:before {
+    content: "\2e";
+}
+.icon-U-002F:before {
+    content: "\2f";
+}
+.icon-U-003F:before {
+    content: "\3f";
 }
 .icon-a:before {
     content: "\61";
@@ -74,9 +83,6 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 }
 .icon-e:before {
     content: "\65";
-}
-.icon-g:before {
-    content: "\67";
 }
 .icon-i:before {
     content: "\69";
@@ -105,30 +111,6 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-t:before {
     content: "\74";
 }
-.icon-U-0020:before {
-    content: "\20";
-}
-.icon-U-0022:before {
-    content: "\22";
-}
-.icon-U-002D:before {
-    content: "\2d";
-}
-.icon-U-002E:before {
-    content: "\2e";
-}
-.icon-U-002F:before {
-    content: "\2f";
-}
-.icon-U-003A:before {
-    content: "\3a";
-}
-.icon-U-003F:before {
-    content: "\3f";
-}
-.icon-U-3000:before {
-    content: "\3000";
-}
 .icon-u:before {
     content: "\75";
 }
@@ -140,18 +122,6 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 }
 .icon-z:before {
     content: "\7a";
-}
-.icon-left-square-bracket:before {
-    content: "\5b";
-}
-.icon-right-square-bracket:before {
-    content: "\5d";
-}
-.icon-left-curly-brace:before {
-    content: "\7b";
-}
-.icon-right-curly-brace:before {
-    content: "\7d";
 }
 .icon-Ⅽ:before {
     content: "\216d";
@@ -815,9 +785,6 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 }
 .icon-文:before {
     content: "\6587";
-}
-.icon-斥:before {
-    content: "\65a5";
 }
 .icon-斧:before {
     content: "\65a7";
@@ -1593,7 +1560,6 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-？:before {
     content: "\ff1f";
 }
-<<<<<<< HEAD
 .icon-U-3000:before {
     content: "\3000";
 }
@@ -1603,22 +1569,22 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-g:before {
     content: "\67";
 }
-.icon-(:before {
+.icon-left-paren:before {
     content: "\28";
 }
-.icon-):before {
+.icon-right-paren:before {
     content: "\29";
 }
-.icon-[:before {
+.icon-left-square-bracket:before {
     content: "\5b";
 }
-.icon-]:before {
+.icon-right-square-bracket:before {
     content: "\5d";
 }
-.icon-}:before {
+.icon-right-curly-brace:before {
     content: "\7d";
 }
-.icon-{:before {
+.icon-left-curly-brace:before {
     content: "\7b";
 }
 .icon-U-003A:before {
@@ -1633,8 +1599,6 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-h:before {
     content: "\68";
 }
-=======
->>>>>>> 445e71622bc6f5d3d80649e0b7b44281729569ea
 .icon-:before {
     content: "\f101";
 }

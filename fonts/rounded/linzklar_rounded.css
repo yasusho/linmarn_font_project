@@ -1,7 +1,7 @@
 @font-face {
     font-family: "linzklar_rounded";
-    src: url("./linzklar_rounded.ttf?23a0396c8df6c532610aad88268706e4") format("truetype"),
-url("./linzklar_rounded.woff?23a0396c8df6c532610aad88268706e4") format("woff");
+    src: url("./linzklar_rounded.ttf?7390c797463fc698141ee626a3fdb2f5") format("truetype"),
+url("./linzklar_rounded.woff?7390c797463fc698141ee626a3fdb2f5") format("woff");
 }
 
 i[class^="icon-"]:before, i[class*=" icon-"]:before {
@@ -1778,6 +1778,66 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 }
 .icon-%:before {
     content: "\25";
+}
+.icon-ｐ:before {
+    content: "\ff50";
+}
+.icon-ｂ:before {
+    content: "\ff42";
+}
+.icon-ｍ:before {
+    content: "\ff4d";
+}
+.icon-ｃ:before {
+    content: "\ff43";
+}
+.icon-ｓ:before {
+    content: "\ff53";
+}
+.icon-ｘ:before {
+    content: "\ff58";
+}
+.icon-ｇ:before {
+    content: "\ff47";
+}
+.icon-ｋ:before {
+    content: "\ff4b";
+}
+.icon-ｈ:before {
+    content: "\ff48";
+}
+.icon-ｚ:before {
+    content: "\ff5a";
+}
+.icon-ｔ:before {
+    content: "\ff54";
+}
+.icon-ｄ:before {
+    content: "\ff44";
+}
+.icon-ｌ:before {
+    content: "\ff4c";
+}
+.icon-ｎ:before {
+    content: "\ff4e";
+}
+.icon-ａ:before {
+    content: "\ff41";
+}
+.icon-ｉ:before {
+    content: "\ff49";
+}
+.icon-ｕ:before {
+    content: "\ff55";
+}
+.icon-ｅ:before {
+    content: "\ff45";
+}
+.icon-ｏ:before {
+    content: "\ff4f";
+}
+.icon-ｙ:before {
+    content: "\ff59";
 }
 .icon-:before {
     content: "\f101";

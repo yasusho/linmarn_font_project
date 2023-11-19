@@ -1,7 +1,7 @@
 @font-face {
     font-family: "linzklar_rounded";
-    src: url("./linzklar_rounded.ttf?ffa924ac41f3a1e8ea5c70ff2f17b0fa") format("truetype"),
-url("./linzklar_rounded.woff?ffa924ac41f3a1e8ea5c70ff2f17b0fa") format("woff");
+    src: url("./linzklar_rounded.ttf?b249b86cb600f21dd9d807c86671308a") format("truetype"),
+url("./linzklar_rounded.woff?b249b86cb600f21dd9d807c86671308a") format("woff");
 }
 
 i[class^="icon-"]:before, i[class*=" icon-"]:before {
@@ -47,9 +47,6 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 }
 .icon-exclamation:before {
     content: "\21";
-}
-.icon-%:before {
-    content: "\25";
 }
 .icon-left-paren:before {
     content: "\28";
@@ -116,6 +113,9 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 }
 .icon-U-0022:before {
     content: "\22";
+}
+.icon-U-0025:before {
+    content: "\25";
 }
 .icon-U-002D:before {
     content: "\2d";
@@ -1835,7 +1835,4 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 }
 .icon-ｚ:before {
     content: "\ff5a";
-}
-.icon-percent:before {
-    content: "\f101";
 }

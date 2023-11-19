@@ -1,7 +1,7 @@
 @font-face {
     font-family: "linzklar_rounded";
-    src: url("./linzklar_rounded.ttf?134c1d35ef58efc711d1ad63fd61cbc1") format("truetype"),
-url("./linzklar_rounded.woff?134c1d35ef58efc711d1ad63fd61cbc1") format("woff");
+    src: url("./linzklar_rounded.ttf?ffa924ac41f3a1e8ea5c70ff2f17b0fa") format("truetype"),
+url("./linzklar_rounded.woff?ffa924ac41f3a1e8ea5c70ff2f17b0fa") format("woff");
 }
 
 i[class^="icon-"]:before, i[class*=" icon-"]:before {
@@ -45,11 +45,11 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-9:before {
     content: "\39";
 }
-.icon--:before {
-    content: "\2d";
-}
 .icon-exclamation:before {
     content: "\21";
+}
+.icon-%:before {
+    content: "\25";
 }
 .icon-left-paren:before {
     content: "\28";
@@ -59,36 +59,6 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 }
 .icon-comma:before {
     content: "\2c";
-}
-.icon-U-0020:before {
-    content: "\20";
-}
-.icon-U-0022:before {
-    content: "\22";
-}
-.icon-U-002D:before {
-    content: "\2d";
-}
-.icon-U-002E:before {
-    content: "\2e";
-}
-.icon-U-002F:before {
-    content: "\2f";
-}
-.icon-U-003A:before {
-    content: "\3a";
-}
-.icon-U-003F:before {
-    content: "\3f";
-}
-.icon-U-3000:before {
-    content: "\3000";
-}
-.icon-left-square-bracket:before {
-    content: "\5b";
-}
-.icon-right-square-bracket:before {
-    content: "\5d";
 }
 .icon-a:before {
     content: "\61";
@@ -141,6 +111,30 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-t:before {
     content: "\74";
 }
+.icon-U-0020:before {
+    content: "\20";
+}
+.icon-U-0022:before {
+    content: "\22";
+}
+.icon-U-002D:before {
+    content: "\2d";
+}
+.icon-U-002E:before {
+    content: "\2e";
+}
+.icon-U-002F:before {
+    content: "\2f";
+}
+.icon-U-003A:before {
+    content: "\3a";
+}
+.icon-U-003F:before {
+    content: "\3f";
+}
+.icon-U-3000:before {
+    content: "\3000";
+}
 .icon-u:before {
     content: "\75";
 }
@@ -152,6 +146,12 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 }
 .icon-z:before {
     content: "\7a";
+}
+.icon-left-square-bracket:before {
+    content: "\5b";
+}
+.icon-right-square-bracket:before {
+    content: "\5d";
 }
 .icon-left-curly-brace:before {
     content: "\7b";
@@ -207,17 +207,194 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-か:before {
     content: "\304b";
 }
+.icon-が:before {
+    content: "\304c";
+}
 .icon-き:before {
     content: "\304d";
+}
+.icon-ぎ:before {
+    content: "\304e";
 }
 .icon-く:before {
     content: "\304f";
 }
+.icon-ぐ:before {
+    content: "\3050";
+}
 .icon-け:before {
     content: "\3051";
 }
+.icon-げ:before {
+    content: "\3052";
+}
 .icon-こ:before {
     content: "\3053";
+}
+.icon-ご:before {
+    content: "\3054";
+}
+.icon-さ:before {
+    content: "\3055";
+}
+.icon-ざ:before {
+    content: "\3056";
+}
+.icon-し:before {
+    content: "\3057";
+}
+.icon-じ:before {
+    content: "\3058";
+}
+.icon-す:before {
+    content: "\3059";
+}
+.icon-ず:before {
+    content: "\305a";
+}
+.icon-せ:before {
+    content: "\305b";
+}
+.icon-ぜ:before {
+    content: "\305c";
+}
+.icon-そ:before {
+    content: "\305d";
+}
+.icon-ぞ:before {
+    content: "\305e";
+}
+.icon-た:before {
+    content: "\305f";
+}
+.icon-だ:before {
+    content: "\3060";
+}
+.icon-ち:before {
+    content: "\3061";
+}
+.icon-ぢ:before {
+    content: "\3062";
+}
+.icon-っ:before {
+    content: "\3063";
+}
+.icon-つ:before {
+    content: "\3064";
+}
+.icon-づ:before {
+    content: "\3065";
+}
+.icon-て:before {
+    content: "\3066";
+}
+.icon-で:before {
+    content: "\3067";
+}
+.icon-と:before {
+    content: "\3068";
+}
+.icon-ど:before {
+    content: "\3069";
+}
+.icon-な:before {
+    content: "\306a";
+}
+.icon-に:before {
+    content: "\306b";
+}
+.icon-ぬ:before {
+    content: "\306c";
+}
+.icon-ね:before {
+    content: "\306d";
+}
+.icon-の:before {
+    content: "\306e";
+}
+.icon-ば:before {
+    content: "\3070";
+}
+.icon-ぱ:before {
+    content: "\3071";
+}
+.icon-び:before {
+    content: "\3073";
+}
+.icon-ぴ:before {
+    content: "\3074";
+}
+.icon-ぶ:before {
+    content: "\3076";
+}
+.icon-ぷ:before {
+    content: "\3077";
+}
+.icon-べ:before {
+    content: "\3079";
+}
+.icon-ぺ:before {
+    content: "\307a";
+}
+.icon-ぼ:before {
+    content: "\307c";
+}
+.icon-ま:before {
+    content: "\307e";
+}
+.icon-み:before {
+    content: "\307f";
+}
+.icon-む:before {
+    content: "\3080";
+}
+.icon-め:before {
+    content: "\3081";
+}
+.icon-も:before {
+    content: "\3082";
+}
+.icon-や:before {
+    content: "\3084";
+}
+.icon-ゆ:before {
+    content: "\3086";
+}
+.icon-よ:before {
+    content: "\3088";
+}
+.icon-ら:before {
+    content: "\3089";
+}
+.icon-り:before {
+    content: "\308a";
+}
+.icon-る:before {
+    content: "\308b";
+}
+.icon-れ:before {
+    content: "\308c";
+}
+.icon-ろ:before {
+    content: "\308d";
+}
+.icon-わ:before {
+    content: "\308f";
+}
+.icon-ゐ:before {
+    content: "\3090";
+}
+.icon-ゑ:before {
+    content: "\3091";
+}
+.icon-ん:before {
+    content: "\3093";
+}
+.icon-ゝ:before {
+    content: "\309d";
+}
+.icon-ー:before {
+    content: "\30fc";
 }
 .icon-㕮:before {
     content: "\356e";
@@ -1599,249 +1776,66 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-？:before {
     content: "\ff1f";
 }
-.icon-り:before {
-    content: "\308a";
-}
-.icon-ら:before {
-    content: "\3089";
-}
-.icon-ろ:before {
-    content: "\308d";
-}
-.icon-る:before {
-    content: "\308b";
-}
-.icon-れ:before {
-    content: "\308c";
-}
-.icon-が:before {
-    content: "\304c";
-}
-.icon-ぐ:before {
-    content: "\3050";
-}
-.icon-げ:before {
-    content: "\3052";
-}
-.icon-ぎ:before {
-    content: "\304e";
-}
-.icon-ざ:before {
-    content: "\3056";
-}
-.icon-ご:before {
-    content: "\3054";
-}
-.icon-し:before {
-    content: "\3057";
-}
-.icon-さ:before {
-    content: "\3055";
-}
-.icon-す:before {
-    content: "\3059";
-}
-.icon-ず:before {
-    content: "\305a";
-}
-.icon-じ:before {
-    content: "\3058";
-}
-.icon-せ:before {
-    content: "\305b";
-}
-.icon-ぜ:before {
-    content: "\305c";
-}
-.icon-そ:before {
-    content: "\305d";
-}
-.icon-ぞ:before {
-    content: "\305e";
-}
-.icon-て:before {
-    content: "\3066";
-}
-.icon-つ:before {
-    content: "\3064";
-}
-.icon-で:before {
-    content: "\3067";
-}
-.icon-た:before {
-    content: "\305f";
-}
-.icon-づ:before {
-    content: "\3065";
-}
-.icon-ち:before {
-    content: "\3061";
-}
-.icon-ぢ:before {
-    content: "\3062";
-}
-.icon-っ:before {
-    content: "\3063";
-}
-.icon-だ:before {
-    content: "\3060";
-}
-.icon-と:before {
-    content: "\3068";
-}
-.icon-ど:before {
-    content: "\3069";
-}
-.icon-な:before {
-    content: "\306a";
-}
-.icon-の:before {
-    content: "\306e";
-}
-.icon-ば:before {
-    content: "\3070";
-}
-.icon-に:before {
-    content: "\306b";
-}
-.icon-ね:before {
-    content: "\306d";
-}
-.icon-ぶ:before {
-    content: "\3076";
-}
-.icon-び:before {
-    content: "\3073";
-}
-.icon-ぱ:before {
-    content: "\3071";
-}
-.icon-ぴ:before {
-    content: "\3074";
-}
-.icon-ぬ:before {
-    content: "\306c";
-}
-.icon-ぷ:before {
-    content: "\3077";
-}
-.icon-べ:before {
-    content: "\3079";
-}
-.icon-ま:before {
-    content: "\307e";
-}
-.icon-ぼ:before {
-    content: "\307c";
-}
-.icon-め:before {
-    content: "\3081";
-}
-.icon-み:before {
-    content: "\307f";
-}
-.icon-ぺ:before {
-    content: "\307a";
-}
-.icon-む:before {
-    content: "\3080";
-}
-.icon-も:before {
-    content: "\3082";
-}
-.icon-ゆ:before {
-    content: "\3086";
-}
-.icon-や:before {
-    content: "\3084";
-}
-.icon-わ:before {
-    content: "\308f";
-}
-.icon-ゑ:before {
-    content: "\3091";
-}
-.icon-ん:before {
-    content: "\3093";
-}
-.icon-よ:before {
-    content: "\3088";
-}
-.icon-ゐ:before {
-    content: "\3090";
-}
-.icon-ー:before {
-    content: "\30fc";
-}
-.icon-ゝ:before {
-    content: "\309d";
-}
-.icon-%:before {
-    content: "\25";
-}
-.icon-ｐ:before {
-    content: "\ff50";
+.icon-ａ:before {
+    content: "\ff41";
 }
 .icon-ｂ:before {
     content: "\ff42";
 }
-.icon-ｍ:before {
-    content: "\ff4d";
-}
 .icon-ｃ:before {
     content: "\ff43";
-}
-.icon-ｓ:before {
-    content: "\ff53";
-}
-.icon-ｘ:before {
-    content: "\ff58";
-}
-.icon-ｇ:before {
-    content: "\ff47";
-}
-.icon-ｋ:before {
-    content: "\ff4b";
-}
-.icon-ｈ:before {
-    content: "\ff48";
-}
-.icon-ｚ:before {
-    content: "\ff5a";
-}
-.icon-ｔ:before {
-    content: "\ff54";
 }
 .icon-ｄ:before {
     content: "\ff44";
 }
-.icon-ｌ:before {
-    content: "\ff4c";
+.icon-ｅ:before {
+    content: "\ff45";
 }
-.icon-ｎ:before {
-    content: "\ff4e";
+.icon-ｇ:before {
+    content: "\ff47";
 }
-.icon-ａ:before {
-    content: "\ff41";
+.icon-ｈ:before {
+    content: "\ff48";
 }
 .icon-ｉ:before {
     content: "\ff49";
 }
-.icon-ｕ:before {
-    content: "\ff55";
+.icon-ｋ:before {
+    content: "\ff4b";
 }
-.icon-ｅ:before {
-    content: "\ff45";
+.icon-ｌ:before {
+    content: "\ff4c";
+}
+.icon-ｍ:before {
+    content: "\ff4d";
+}
+.icon-ｎ:before {
+    content: "\ff4e";
 }
 .icon-ｏ:before {
     content: "\ff4f";
 }
+.icon-ｐ:before {
+    content: "\ff50";
+}
+.icon-ｓ:before {
+    content: "\ff53";
+}
+.icon-ｔ:before {
+    content: "\ff54";
+}
+.icon-ｕ:before {
+    content: "\ff55";
+}
+.icon-ｘ:before {
+    content: "\ff58";
+}
 .icon-ｙ:before {
     content: "\ff59";
 }
-.icon-:before {
-    content: "\f101";
+.icon-ｚ:before {
+    content: "\ff5a";
 }
 .icon-percent:before {
-    content: "\f102";
+    content: "\f101";
 }

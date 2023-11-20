@@ -35,29 +35,29 @@
   <defs
      id="defs2" />
   <path
-     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.5"
      d="M 75.680603,29.436575 V 112.26352"
      id="path2437" />
   <path
-     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.5"
      d="M 197.91121,112.26352 V 29.43657 l -122.230607,-5e-6"
      id="path2441"
      sodipodi:nodetypes="ccc" />
   <path
-     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.5"
      d="M 197.9112,97.829846 H 75.680596"
      id="path2445" />
   <path
-     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:14.9999;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:14.9999;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.5"
      d="m 136.7959,97.829846 v 70.271374 c 0,20.49176 -27.68309,67.0456 -107.230592,67.0456"
      id="path2431" />
   <path
-     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:15.0001;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:15.0001;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.5"
      d="M 50.215491,125.51714 V 160.3221 H 223.37625"
      id="path2433"
      sodipodi:nodetypes="ccc" />
   <path
-     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15.0001;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15.0001;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.5"
      d="M 223.37625,166.84429 V 125.51714"
      id="path2435" />
 </svg>

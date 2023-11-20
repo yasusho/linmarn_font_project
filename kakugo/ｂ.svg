@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500"
+   height="1000"
+   viewBox="0 0 132.29166 264.58333"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.5"
+     d="M 22.228441,88.080612 V 217.0644"
+     id="path2437" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.5"
+     d="M 22.228441,88.080612 H 110.06322 V 217.0644"
+     id="path2443" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.5"
+     d="M 110.06322,205.89747 H 22.228441"
+     id="path2445" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.501961;paint-order:markers fill stroke"
+     d="M 22.228441,88.08061 C 45.425668,75.838279 53.542848,66.377488 66.145831,47.518929"
+     id="path1" />
+</svg>

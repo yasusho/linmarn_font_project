@@ -57,19 +57,19 @@
   <defs
      id="defs2" />
   <path
-     style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+     style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:0.5;paint-order:fill markers stroke"
      d="M 20.729168,47.187584 V 182.6245 217.39578"
      id="path1639"
      sodipodi:nodetypes="ccc" />
   <ellipse
-     style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+     style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:0.5;paint-order:fill markers stroke"
      id="path2004"
      cx="77.843315"
      cy="132.29166"
      rx="33.719181"
      ry="85.104164" />
   <path
-     style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+     style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:0.5;paint-order:fill markers stroke"
      d="M 20.729168,132.29167 H 44.124133"
      id="path2006" />
 </svg>

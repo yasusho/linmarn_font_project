@@ -12,23 +12,23 @@
   <defs
      id="defs2" />
   <path
-     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.5"
      d="M 243.7877,223.71406 H 20.795631"
      id="path1701" />
   <path
-     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15.0002;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15.0002;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.5"
      d="M 86.417465,176.66905 H 178.43351"
      id="path2457" />
   <path
-     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15.0002;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15.0002;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.5"
      d="M 86.417395,176.66905 V 40.869369"
      id="path2461" />
   <path
-     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15.0002;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15.0002;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.5"
      d="M 178.43351,191.58332 V 40.869369"
      id="path2463" />
   <path
-     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.5"
      d="M 221.90019,81.207656 H 42.950787"
      id="path2425-5" />
 </svg>

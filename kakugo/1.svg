@@ -35,7 +35,7 @@
   <defs
      id="defs2" />
   <path
-     style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+     style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:0.5;paint-order:fill markers stroke"
      d="M 66.145831,20.062671 V 244.52066"
      id="path2783" />
 </svg>

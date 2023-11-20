@@ -14,15 +14,15 @@
   <g
      id="layer1">
     <path
-       style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.5"
+       style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:0.5"
        d="m 96.346847,47.157268 v 70.573002 c 0,73.58035 -57.200478,99.69994 -75.617675,99.69994"
        id="path3102" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.5"
+       style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:0.5"
        d="m 155.71529,47.157268 -0.44494,123.680952 c -0.13869,38.55252 24.05866,46.60494 59.65666,46.60494 h 28.48261 l -24.80503,-44.4527"
        id="path3106" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:15.0001;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.5"
+       style="fill:none;stroke:#000000;stroke-width:15.0001;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:0.5"
        d="M 39.017468,47.157306 H 214.98253"
        id="path3527" />
   </g>

@@ -35,11 +35,11 @@
   <defs
      id="defs2" />
   <path
-     style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+     style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:0.5;paint-order:fill markers stroke"
      d="M 21.056906,7.5 V 32.187499"
      id="path4238" />
   <path
-     style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+     style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:0.5;paint-order:fill markers stroke"
      d="M 45.088925,7.5 V 32.187499"
      id="path4240" />
 </svg>

@@ -39,11 +39,11 @@
      transform="matrix(0,-0.80103564,0.80103564,0,26.321326,238.26201)"
      style="stroke-width:1.24838">
     <path
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:18.7257;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:18.7257;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.5"
        d="M 243.85417,20.729169 V 243.85417"
        id="path3679" />
     <path
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:18.7257;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:18.7257;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.5"
        d="M 243.85417,20.729169 H 20.729171 V 243.85417"
        id="path3681"
        sodipodi:nodetypes="ccc" />

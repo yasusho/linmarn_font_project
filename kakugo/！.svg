@@ -44,12 +44,12 @@
          transform="matrix(0.67639299,0,0,0.70309909,44.312551,39.282477)"
          style="stroke-width:1.45008">
         <path
-           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:21.7512;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:21.7512;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.5"
            d="m 175.92714,20.650866 0,245.846094 -43.70836,-42.04817"
            id="path1380"
            sodipodi:nodetypes="ccc" />
         <path
-           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:21.7512;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:21.7512;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.5"
            d="M 84.002243,50.679162 V 190.84977"
            id="path1386" />
       </g>

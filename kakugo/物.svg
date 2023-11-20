@@ -47,13 +47,13 @@
          transform="translate(2.2392198e-4,270.93325)"
          style="stroke-width:1.25932">
         <path
-           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:18.8897;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:18.8897;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.5"
            d="m -2380.4292,189.781 133.0371,-164.616019 -247.5985,0"
            id="path1542"
            sodipodi:nodetypes="ccc" />
       </g>
       <path
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:18.8897;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:18.8897;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.5"
          d="M -2319.9878,527.86721 -2440.5895,394.19405"
          id="path1546" />
     </g>

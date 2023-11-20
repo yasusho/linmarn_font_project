@@ -36,11 +36,11 @@
      id="defs2" />
   <path
      id="path1585"
-     style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+     style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:0.5;paint-order:fill markers stroke"
      d="M 89.881428,195.02159 C 76.815599,223.30611 46.832726,223.72325 31.468936,201.50023 16.105146,179.27722 10.132536,136.6549 17.20371,99.699377 24.274885,62.743853 38.535445,47.2951 52.987086,47.2951 c 26.445044,0 38.731648,36.959457 38.731647,76.95983"
      sodipodi:nodetypes="csssc" />
   <path
-     style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+     style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:0.5;paint-order:fill markers stroke"
      d="M 91.718731,124.25493 H 14.255441"
      id="path2273"
      sodipodi:nodetypes="cc" />

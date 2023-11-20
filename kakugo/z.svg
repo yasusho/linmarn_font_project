@@ -57,21 +57,21 @@
   <defs
      id="defs2" />
   <path
-     style="fill:none;stroke:#000000;stroke-width:15.0001;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+     style="fill:none;stroke:#000000;stroke-width:15.0001;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:0.5;paint-order:fill markers stroke"
      d="M 20.729167,216.31738 V 82.596626 48.265949"
      id="path1639"
      sodipodi:nodetypes="ccc" />
   <path
-     style="fill:none;stroke:#000000;stroke-width:15.0001;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+     style="fill:none;stroke:#000000;stroke-width:15.0001;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:0.5;paint-order:fill markers stroke"
      d="M 85.104164,216.31738 V 82.596626 48.265949"
      id="path1818"
      sodipodi:nodetypes="ccc" />
   <path
-     style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+     style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:0.5;paint-order:fill markers stroke"
      d="M 20.729167,216.31738 85.104164,48.265951"
      id="path1822" />
   <path
-     style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+     style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:0.5;paint-order:fill markers stroke"
      id="path1836"
      sodipodi:type="arc"
      sodipodi:cx="-238.44452"

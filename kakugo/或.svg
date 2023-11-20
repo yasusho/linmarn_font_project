@@ -35,16 +35,16 @@
   <defs
      id="defs2" />
   <path
-     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:14.9999;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:14.9999;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.5"
      d="M 194.11771,229.90054 108.34698,144.39692"
      id="path1546" />
   <path
-     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.5"
      d="M 89.894456,51.074489 230.625,51.783421 146.61018,177.12492"
      id="path1564"
      sodipodi:nodetypes="ccc" />
   <path
-     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:14.9999;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:14.9999;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.5"
      d="M 91.904586,34.682788 C 88.419186,63.020022 71.96896,127.47765 33.958283,162.55091"
      id="path736" />
 </svg>

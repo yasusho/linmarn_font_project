@@ -14,19 +14,19 @@
   <g
      id="layer1">
     <path
-       style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.5"
+       style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:0.5"
        d="m 102.13999,21.16667 -1e-5,222.51616 -17.842913,-32.55302"
        id="path6397" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.5"
+       style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:0.5"
        d="M 109.82561,77.419204 C 86.792082,152.95771 56.180803,179.72076 31.602429,198.23598"
        id="path6401" />
     <path
-       style="fill:#000000;fill-opacity:0.5;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.5"
+       style="fill:#000000;fill-opacity:0.5;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:0.5"
        d="M 163.31686,21.16667 V 243.62083"
        id="path13865" />
     <path
-       style="fill:#000000;fill-opacity:0.5;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.5"
+       style="fill:#000000;fill-opacity:0.5;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:0.5"
        d="m 163.31686,106.8872 80.53731,59.05511"
        id="path15010" />
   </g>

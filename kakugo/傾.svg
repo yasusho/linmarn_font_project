@@ -74,7 +74,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.5"
+       style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:0.5"
        d="M 220.70104,20.637503 78.913423,66.597926 c 0,0 1.541817,135.848684 -33.934251,176.818744"
        id="path1441"
        sodipodi:nodetypes="ccc" />

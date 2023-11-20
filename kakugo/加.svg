@@ -79,17 +79,17 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.5"
+       style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:0.5"
        d="m 96.346847,20.729291 v 92.478529 c 0,96.41935 -57.200478,130.64635 -75.617675,130.64635"
        id="path3102"
        sodipodi:nodetypes="csc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.5"
+       style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:0.5"
        d="m 155.71529,20.729291 -0.44494,162.070949 c -0.13869,50.51904 24.05866,61.0709 59.65666,61.0709 h 28.48261 l -24.80503,-58.25062"
        id="path3106"
        sodipodi:nodetypes="csccc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:15.0001;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.5"
+       style="fill:none;stroke:#000000;stroke-width:15.0001;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:0.5"
        d="M 39.017468,110.11652 H 214.98253"
        id="path3527" />
   </g>

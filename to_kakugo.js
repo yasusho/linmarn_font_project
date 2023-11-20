@@ -38,9 +38,18 @@ const fs = __importStar(require("fs"));
             console.log(`Removing ${file}: file name too long`);
             return;
         }
-        const svg_glyph = fs.readFileSync(`${input_path}/${file}`, 'utf-8')
-            .replace(/stroke-linecap:\s*round/g, "stroke-linecap:square")
-            .replace(/stroke-linejoin:\s*round/g, "stroke-linejoin:bevel");
-        fs.writeFileSync(`${output_path}/${file}`, svg_glyph);
+        // pemecepe lujot は変換したくない。
+        // 逆に、以下のものは変換してよい。
+        // - 「転写が漢字である燐字」
+        // - 「転写に U+ が入っている『記号』『ドット付き文字』」
+        // - 「転写が全角英数であるパイグ文字」
+        // ということで、「転写の先頭が ASCII 外」または「転写が U+ で始まっている」または「その他特別に定める場合」
+        // は許可、としたい。
+        if (file[0] > '~' || file.startsWith("U+")) {
+            const svg_glyph = fs.readFileSync(`${input_path}/${file}`, 'utf-8')
+                .replace(/stroke-linecap:\s*round/g, "stroke-linecap:square")
+                .replace(/stroke-linejoin:\s*round/g, "stroke-linejoin:miter");
+            fs.writeFileSync(`${output_path}/${file}`, svg_glyph);
+        }
     });
 })();

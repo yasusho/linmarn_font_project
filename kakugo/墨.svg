@@ -39,32 +39,32 @@
      transform="rotate(90,132.29167,132.29166)"
      style="fill:#999999" />
   <path
-     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:14.9998;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:14.9998;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.5"
      d="m 137.55697,33.637785 c 0,154.109565 -25.20916,179.858435 -40.396247,197.587755"
      id="path2387" />
   <path
-     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:14.9998;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:14.9998;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.5"
      d="m 134.83751,111.36733 32.99029,64.73068"
      id="path2389" />
   <path
-     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:14.9998;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:14.9998;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.5"
      d="m 191.63655,33.357802 c 0,154.109558 -25.20918,179.858428 -40.39625,197.587758"
      id="path2413" />
   <path
-     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:14.9998;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:14.9998;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.5"
      d="m 188.91705,111.08735 51.62693,120.11497"
      id="path2415" />
   <path
-     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.5"
      d="M 27.80063,61.956072 V 202.8562"
      id="path2437" />
   <path
-     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.5"
      d="M 27.80063,61.956072 H 98.318873 V 211.9728 l -18.94615,-35.25369"
      id="path2441"
      sodipodi:nodetypes="cccc" />
   <path
-     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.5"
      d="M 63.059741,21.469022 V 244.79378"
      id="path31515" />
 </svg>

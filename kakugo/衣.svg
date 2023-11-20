@@ -35,11 +35,11 @@
   <defs
      id="defs2" />
   <path
-     style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.5"
+     style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:0.5"
      d="M 33.958337,33.958333 H 230.62502 c -2.15133,57.828103 -18.385,104.488377 -49.22411,154.331107 l -49.10924,-41.25638"
      id="path5879" />
   <path
-     style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.5"
+     style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:0.5"
      d="M 117.50045,33.958342 V 230.625"
      id="path7514" />
 </svg>

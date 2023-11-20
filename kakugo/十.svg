@@ -35,7 +35,7 @@
   <defs
      id="defs2" />
   <path
-     style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.5"
+     style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:0.5"
      d="M 56.911577,33.958429 H 200.15392 L 56.723057,156.73059 c -42.223182,31.89484 -19.877381,73.89433 18.280778,73.89431 l 155.621605,-5e-5 -26.58897,-51.33928"
      id="path3527"
      sodipodi:nodetypes="cccscc" />

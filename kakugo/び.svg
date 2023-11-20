@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000"
+   height="1000"
+   viewBox="0 0 264.58333 264.58333"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <rect
+         style="fill:#ffffff;stroke:none;stroke-width:15;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:0.501961;paint-order:stroke markers fill"
+         id="rect3"
+         width="289.10974"
+         height="178.67964"
+         x="-1.4210855e-14"
+         y="438.9678"
+         transform="rotate(-15)" />
+    </clipPath>
+  </defs>
+  <path
+     style="fill:#000000;stroke:#000000;stroke-width:21.5575;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:0.501961;paint-order:stroke markers fill"
+     d="m 181.25676,37.361465 41.88136,41.881361"
+     id="path3"
+     transform="matrix(0.69581238,0,0,0.69581238,47.640597,13.632006)" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:0.501961;paint-order:stroke markers fill"
+     d="m 103.14502,192.4287 -72.5692,37.71672"
+     id="path6" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:0.501961;paint-order:stroke markers fill"
+     d="m 103.14502,192.4287 29.47917,37.71672 c 0,0 20.43792,-29.84308 56.84457,-29.84308 27.63147,0 44.53875,30.52133 44.53875,30.52133"
+     id="path7" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:0.501961;paint-order:stroke markers fill"
+     d="m 132.71827,39.628588 -2.21203,72.592582 c 0,0 1.5804,33.14317 -41.937062,33.14317 -75.322659,0 -12.790421,-36.94836 71.608982,-33.56246 47.21137,1.89401 48.94773,21.52308 35.56378,32.69702 C 180.26333,157.42161 104.45,191.75045 104.45,191.75045"
+     id="path1" />
+</svg>

@@ -12,11 +12,11 @@
   <defs
      id="defs2" />
   <path
-     style="fill:#000000;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+     style="fill:#000000;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:0.5;paint-order:fill markers stroke"
      d="M 14.114583,47.187498 91.718748,217.39583"
      id="path1656" />
   <path
-     style="fill:#000000;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+     style="fill:#000000;stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:0.5;paint-order:fill markers stroke"
      d="M 91.718748,47.187498 14.114583,217.39583"
      id="path1658" />
 </svg>

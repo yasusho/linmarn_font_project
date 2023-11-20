@@ -55,12 +55,12 @@
            transform="translate(-8.0087314)"
            style="stroke-width:1.39836">
           <path
-             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:20.9754;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:20.9754;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.5"
              d="M -3821.8244,7.1067942 V 263.82669"
              id="path3911"
              transform="translate(1374.1558,-29.699845)" />
           <path
-             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:20.9753;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.5"
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:20.9753;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.5"
              d="m -2239.4562,83.623331 c -96.5094,97.992549 -145.9362,124.397969 -208.2124,150.503519"
              id="path3917" />
         </g>

@@ -25,8 +25,8 @@ import md5 from "md5";
     if (file.endsWith(".svg")) {
       const md5_filepath = `${md5_cache_directory}/${file}.md5`;
 
-      const svg_content = fs.readFileSync(`./${in_path}/${file}`, { encoding: 'utf-8' });
-      const current_hash = md5(svg_content, { encoding: 'utf-8' });
+      const svg_content = fs.readFileSync(`./${in_path}/${file}`, { encoding: 'utf-8' }).replaceAll(/\r?\n/g, "\r\n");
+      const current_hash = md5(svg_content);
       const cached_hash = (() => {
         try { return fs.readFileSync(md5_filepath, { encoding: 'utf-8' }); } catch { return null }
       })();
@@ -34,10 +34,13 @@ import md5 from "md5";
       if (cached_hash === null) {
         console.log(`No cache found for ${file}. Generating...`)
       } else if (current_hash !== cached_hash) {
-        console.log(`Change detected in ${file} (md5 does not match). Generating...`);
-      } else { continue; }
+        console.log(`Change detected in ${file} (md5 does not match between old '${cached_hash}' and new '${current_hash}'). Generating...`);
+      } else { 
+        console.log(`Skipping ${file} (md5 matches)`);
+        continue; 
+      }
 
-      fs.writeFileSync(md5_filepath, current_hash);
+      fs.writeFileSync(md5_filepath, current_hash, { encoding: 'utf-8' });
       await SVGFixer(`./${in_path}/${file}`, `./${fix_path}`, fix_options).fix();
     }
   }

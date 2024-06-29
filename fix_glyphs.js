@@ -35,5 +35,9 @@ const fs = __importStar(require("fs"));
     if (!fs.existsSync(fix_path)) {
         fs.mkdirSync(fix_path);
     }
-    await SVGFixer(`./${in_path}`, `./${fix_path}`, fix_options).fix();
+    const files = await fs.promises.readdir(`./${in_path}`);
+    for (const file of files) {
+        if (file.endsWith(".svg"))
+            await SVGFixer(`./${in_path}/${file}`, `./${fix_path}`, fix_options).fix();
+    }
 })();

@@ -21,15 +21,23 @@ import md5 from "md5";
 
   const files = await fs.promises.readdir(`./${in_path}`);
 
-  for (const file of files) {
+  for await (const file of files) {
     if (file.endsWith(".svg")) {
       const md5_filepath = `${md5_cache_directory}/${file}.md5`;
 
       const svg_content = fs.readFileSync(`./${in_path}/${file}`, { encoding: 'utf-8' });
-      const current_hash = md5(svg_content, { encoding: 'binary' });
+      const current_hash = md5(svg_content, { encoding: 'utf-8' });
+      const cached_hash = (() => {
+        try { return fs.readFileSync(md5_filepath, { encoding: 'utf-8' }); } catch { return null }
+      })();
 
-      const cached_hash = (() => {try { return fs.readFileSync(md5_filepath, { }); } catch { return null }})();
+      if (cached_hash === null) {
+        console.log(`No cache found for ${file}. Generating...`)
+      } else if (current_hash !== cached_hash) {
+        console.log(`Change detected in ${file} (md5 does not match). Generating...`);
+      } else { continue; }
 
+      fs.writeFileSync(md5_filepath, current_hash);
       await SVGFixer(`./${in_path}/${file}`, `./${fix_path}`, fix_options).fix();
     }
   }

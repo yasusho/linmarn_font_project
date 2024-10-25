@@ -1,0 +1,194 @@
+@font-face {
+    font-family: "linzklar_liparxe";
+    src: url("./linzklar_liparxe.ttf?330e67ede6cd5b9175f33b7b0a94d85b") format("truetype"),
+url("./linzklar_liparxe.woff?330e67ede6cd5b9175f33b7b0a94d85b") format("woff");
+}
+
+i[class^="icon-"]:before, i[class*=" icon-"]:before {
+    font-family: linzklar_liparxe !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-0:before {
+    content: "\30";
+}
+.icon-1:before {
+    content: "\31";
+}
+.icon-2:before {
+    content: "\32";
+}
+.icon-3:before {
+    content: "\33";
+}
+.icon-4:before {
+    content: "\34";
+}
+.icon-5:before {
+    content: "\35";
+}
+.icon-6:before {
+    content: "\36";
+}
+.icon-7:before {
+    content: "\37";
+}
+.icon-8:before {
+    content: "\38";
+}
+.icon-9:before {
+    content: "\39";
+}
+.icon-a:before {
+    content: "\61";
+}
+.icon-b:before {
+    content: "\62";
+}
+.icon-c:before {
+    content: "\63";
+}
+.icon-d:before {
+    content: "\64";
+}
+.icon-e:before {
+    content: "\65";
+}
+.icon-f:before {
+    content: "\66";
+}
+.icon-g:before {
+    content: "\67";
+}
+.icon-h:before {
+    content: "\68";
+}
+.icon-i:before {
+    content: "\69";
+}
+.icon-j:before {
+    content: "\6a";
+}
+.icon-k:before {
+    content: "\6b";
+}
+.icon-l:before {
+    content: "\6c";
+}
+.icon-m:before {
+    content: "\6d";
+}
+.icon-n:before {
+    content: "\6e";
+}
+.icon-o:before {
+    content: "\6f";
+}
+.icon-p:before {
+    content: "\70";
+}
+.icon-q:before {
+    content: "\71";
+}
+.icon-r:before {
+    content: "\72";
+}
+.icon-s:before {
+    content: "\73";
+}
+.icon-t:before {
+    content: "\74";
+}
+.icon-u:before {
+    content: "\75";
+}
+.icon-v:before {
+    content: "\76";
+}
+.icon-w:before {
+    content: "\77";
+}
+.icon-x:before {
+    content: "\78";
+}
+.icon-y:before {
+    content: "\79";
+}
+.icon-z:before {
+    content: "\7a";
+}
+.icon-exclamation:before {
+    content: "\21";
+}
+.icon-left-paren:before {
+    content: "\28";
+}
+.icon-right-paren:before {
+    content: "\29";
+}
+.icon-comma:before {
+    content: "\2c";
+}
+.icon-left-square-bracket:before {
+    content: "\5b";
+}
+.icon-right-square-bracket:before {
+    content: "\5d";
+}
+.icon-left-curly-brace:before {
+    content: "\7b";
+}
+.icon-right-curly-brace:before {
+    content: "\7d";
+}
+.icon-Ⅽ:before {
+    content: "\216d";
+}
+.icon-U-002D:before {
+    content: "\2d";
+}
+.icon-U-002E:before {
+    content: "\2e";
+}
+.icon-U-002F:before {
+    content: "\2f";
+}
+.icon-U-003A:before {
+    content: "\3a";
+}
+.icon-U-003F:before {
+    content: "\3f";
+}
+.icon-U-0058:before {
+    content: "\58";
+}
+.icon-U-0056:before {
+    content: "\56";
+}
+.icon-U-0046:before {
+    content: "\46";
+}
+.icon-U-0020:before {
+    content: "\20";
+}
+.icon-U-0022:before {
+    content: "\22";
+}
+.icon-Ⅹ:before {
+    content: "\2169";
+}
+.icon-&#x27;:before {
+    content: "\27";
+}
+.icon-U-0027:before {
+    content: "\27";
+}
+.icon-:before {
+    content: "\f101";
+}

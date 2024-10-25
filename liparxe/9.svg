@@ -7,14 +7,14 @@
    viewBox="0 0 132.29166 264.58333"
    version="1.1"
    id="svg5"
-   sodipodi:docname="q.svg"
-   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="9.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview6476"
+     id="namedview2654"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -24,34 +24,24 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.472"
-     inkscape:cx="-243.64407"
-     inkscape:cy="653.6017"
+     inkscape:cx="-151.48305"
+     inkscape:cy="386.65254"
      inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg5"
-     showguides="true">
-    <sodipodi:guide
-       position="20.729164,7.5979951"
-       orientation="0,-1"
-       id="guide1"
-       inkscape:locked="false" />
-  </sodipodi:namedview>
+     inkscape:current-layer="svg5" />
   <defs
      id="defs2" />
   <path
-     id="path1585"
      style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5;paint-order:fill markers stroke"
-     transform="scale(-1,1)"
-     d="m -15.229842,192.46939 a 21.076836,85.104164 0 0 1 -29.807146,0 21.076836,85.104164 0 0 1 -10e-7,-120.355463 21.076836,85.104164 0 0 1 29.807147,-5e-6" />
+     d="m 33.76716,96.509765 76.88697,66.539595"
+     id="path2789"
+     sodipodi:nodetypes="cc" />
   <path
-     id="path1"
      style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5;paint-order:fill markers stroke"
-     d="m 117.06182,192.46939 a 21.076836,85.104164 0 0 1 -29.807144,0 21.076836,85.104164 0 0 1 -10e-7,-120.355463 21.076836,85.104164 0 0 1 29.807145,-5e-6" />
-  <path
-     style="fill:#122243;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stroke-opacity:0.50196081"
-     d="M 51.210247,132.29166 H 81.08141"
-     id="path3" />
+     d="m 27.220691,31.273825 75.933439,0 C 88.606071,146.15825 20.729166,233.75263 20.729166,233.75263"
+     id="path469"
+     sodipodi:nodetypes="ccc" />
 </svg>

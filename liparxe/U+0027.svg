@@ -7,7 +7,7 @@
    viewBox="0 0 105.83333 264.58333"
    version="1.1"
    id="svg5"
-   sodipodi:docname="v.svg"
+   sodipodi:docname="'.svg"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.236"
-     inkscape:cx="-828.38983"
-     inkscape:cy="476.69492"
+     inkscape:zoom="0.3337544"
+     inkscape:cx="-172.28237"
+     inkscape:cy="-115.35428"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -57,22 +57,22 @@
   <defs
      id="defs2" />
   <path
-     style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5;paint-order:fill markers stroke"
-     d="m 82.621416,206.81245 4.8e-5,-101.00177"
-     id="path1639-0"
-     sodipodi:nodetypes="cc" />
-  <path
      style="fill:none;stroke:#000000;stroke-width:14.9999;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5;paint-order:fill markers stroke"
-     id="path1979"
-     d="m 20.729198,105.81068 a 30.946116,58.550761 0 0 1 15.473055,-50.706407 30.946116,58.550761 0 0 1 30.946113,0 30.946116,58.550761 0 0 1 15.473063,50.706407" />
+     id="path1585"
+     sodipodi:type="arc"
+     sodipodi:cx="79.926338"
+     sodipodi:cy="-52.916664"
+     sodipodi:rx="32.205338"
+     sodipodi:ry="32.1875"
+     sodipodi:start="1.5707963"
+     sodipodi:end="4.712389"
+     sodipodi:arc-type="arc"
+     d="m 79.926338,-20.729164 a 32.205338,32.1875 0 0 1 -27.89064,-16.09375 32.205338,32.1875 0 0 1 0,-32.1875 32.205338,32.1875 0 0 1 27.89064,-16.09375"
+     sodipodi:open="true"
+     transform="rotate(90)" />
   <path
      style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5;paint-order:fill markers stroke"
-     d="M 20.729191,201.52078 V 108.7399 102.88153"
-     id="path1983"
-     sodipodi:nodetypes="ccc" />
-  <path
-     style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5;paint-order:fill markers stroke"
-     d="M 82.621416,206.81245 20.729191,257.08333 H 85.104144"
-     id="path1"
+     d="M 85.104109,217.35283 V 82.700001 7.5"
+     id="path1639"
      sodipodi:nodetypes="ccc" />
 </svg>

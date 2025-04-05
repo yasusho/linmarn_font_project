@@ -24,11 +24,11 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      showguides="true"
-     inkscape:zoom="0.236"
-     inkscape:cx="375"
-     inkscape:cy="641.94915"
-     inkscape:window-width="1280"
-     inkscape:window-height="729"
+     inkscape:zoom="0.3337544"
+     inkscape:cx="250.18397"
+     inkscape:cy="651.6768"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -43,17 +43,17 @@
      id="defs2" />
   <path
      style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5"
-     d="M 70.16044,37.298522 69.617644,179.72218 C 69.51673,206.20434 81.9564,227.2848 104.81385,227.2848 h 84.31173 34.74697 L 193.612,181.91866"
+     d="M 83.16044,37.298522 82.617644,179.72218 C 82.516717,206.20434 94.9564,227.2848 117.81385,227.2848 h 71.31173 34.74697 L 193.612,181.91866"
      id="path3106"
      sodipodi:nodetypes="cssscc" />
   <path
      style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-opacity:0.501961;paint-order:stroke markers fill"
-     d="M 153.60468,130.27488 C 115.45125,143.18141 77.00673,152.54943 39.205333,160.42356"
+     d="M 182.48038,130.27488 C 132.36201,143.18141 88.86127,152.54943 39.205332,160.42356"
      id="path6625"
      sodipodi:nodetypes="cc" />
   <path
      style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-opacity:0.501961;paint-order:stroke markers fill"
-     d="M 129.3685,76.231766 C 99.36265,83.606767 68.999913,88.712854 39.205333,92.923558"
+     d="M 157.64372,76.231766 C 118.22802,83.606767 78.34351,88.712854 39.205332,92.923558"
      id="path1"
      sodipodi:nodetypes="cc" />
 </svg>

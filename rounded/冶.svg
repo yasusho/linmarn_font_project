@@ -29,7 +29,7 @@
      inkscape:window-width="1280"
      inkscape:window-height="729"
      inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-y="1072"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5"
      showguides="true">
@@ -43,33 +43,33 @@
      id="defs2" />
   <path
      style="fill:#000000;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.501961"
-     d="M 45.957011,133.15866 H 221.21891"
+     d="M 45.957011,134.91863 H 221.21891"
      id="path4086" />
   <path
      style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5"
-     d="M 79.618768,163.87467 79.513107,249.57003 197.09323,206.8038"
+     d="M 79.618768,164.9064 79.513107,248.57003 197.09323,206.81774"
      id="path4451"
      sodipodi:nodetypes="ccc" />
   <path
      style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
-     d="M 239.81914,249.57003 159.6906,167.11405"
+     d="M 239.81914,248.57003 159.6906,168.06898"
      id="path4453" />
   <path
      style="fill:#ffffff;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.501961;paint-order:stroke markers fill"
-     d="m 61.641412,77.373465 35.74339,35.620215"
+     d="m 61.641412,80.456038 35.74339,34.775702"
      id="path1" />
   <path
      style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.501961;paint-order:stroke markers fill"
-     d="M 197.09323,77.373465 C 151.28431,132.35638 91.225711,158.27545 29.764186,181.39408"
+     d="M 197.09323,80.456038 C 151.28431,134.13537 91.225711,159.43993 29.764186,182.01045"
      id="path2"
      sodipodi:nodetypes="cc" />
   <path
      style="fill:#000000;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5"
-     d="M 48.40449,44.659945 H 225.00277"
+     d="M 52.40449,48.518116 H 219.00277"
      id="path11092"
      sodipodi:nodetypes="cc" />
   <path
      style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5"
-     d="M 58.64856,13.135417 C 54.97723,44.486748 35.14981,64.187288 23.16042,76.184474"
+     d="M 62.64856,17.740996 C 58.97723,48.349025 39.14981,67.582489 27.16042,79.295236"
      id="path11122" />
 </svg>

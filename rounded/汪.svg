@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    sodipodi:docname="汪.svg"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,52 +23,52 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.1668772"
-     inkscape:cx="479.39443"
-     inkscape:cy="943.80778"
-     inkscape:window-width="1280"
-     inkscape:window-height="729"
-     inkscape:window-x="-8"
-     inkscape:window-y="1072"
+     inkscape:zoom="0.31974216"
+     inkscape:cx="204.85256"
+     inkscape:cy="1155.6186"
+     inkscape:window-width="1920"
+     inkscape:window-height="1221"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5" />
   <defs
      id="defs2" />
   <path
      style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:14.9999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
-     d="m 147.41034,90.918843 v 68.974907 c 0,27.10918 -3.92161,68.61673 -27.87566,80.69038"
+     d="m 138.05486,86.812064 v 73.550196 c 0,28.90739 -4.15055,73.16823 -29.50296,86.04275"
      id="path2431"
      sodipodi:nodetypes="csc" />
   <path
-     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15.0002;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
-     d="M 182.96623,240.58402 V 90.918888"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15.0001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
+     d="M 175.6864,246.40489 V 86.812112"
      id="path2435" />
   <path
      style="fill:#000000;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5"
-     d="m 132.56933,57.282865 h 98.93065"
+     d="M 122.34747,50.944937 H 227.05341"
      id="path11092" />
   <path
      style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5"
-     d="m 137.8588,21.999209 c -1.89567,35.089806 -12.13344,57.139529 -18.3241,70.567314"
+     d="m 127.94572,13.320837 c -2.00633,37.417392 -12.84175,60.929722 -19.3938,75.248201"
      id="path11122" />
   <path
      style="fill:#000000;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5"
-     d="M 111.53264,147.85488 H 253.28157"
+     d="M 100.08272,147.52483 H 250.10654"
      id="path1" />
   <path
-     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15.0002;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
-     d="M 218.52219,240.58402 V 90.918888"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:15.0001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
+     d="M 213.31801,246.40489 V 86.812112"
      id="path2" />
   <path
      style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5"
-     d="m 43.057656,118.8852 h 45.159311 c -0.799964,56.56643 -6.502309,84.81324 -14.254911,113.99595 L 55.700789,192.52489"
+     d="m 41.231542,118.8852 h 39.688595 c -0.703055,56.56643 -5.714603,84.81324 -12.528034,113.99595 l -16.04905,-40.35626"
      id="path5879" />
   <path
      style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5"
-     d="M 49.005195,60.949998 C 44.454776,126.4723 33.685265,185.21812 14.933599,233.15908"
+     d="M 46.458581,60.949998 C 42.459411,126.4723 32.994547,185.21812 16.514506,233.15908"
      id="path5881" />
   <path
      style="fill:none;fill-opacity:0.5;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5"
-     d="M 14.87917,60.949998 H 96.847658"
+     d="M 16.466671,60.949998 H 88.505283"
      id="path445" />
 </svg>

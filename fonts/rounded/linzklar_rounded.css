@@ -1,7 +1,7 @@
 @font-face {
     font-family: "linzklar_rounded";
-    src: url("./linzklar_rounded.ttf?b05e93d4e240c97eb38fe98066237011") format("truetype"),
-url("./linzklar_rounded.woff?b05e93d4e240c97eb38fe98066237011") format("woff");
+    src: url("./linzklar_rounded.ttf?b7f6d032d53c0825ee28a08963375b10") format("truetype"),
+url("./linzklar_rounded.woff?b7f6d032d53c0825ee28a08963375b10") format("woff");
 }
 
 i[class^="icon-"]:before, i[class*=" icon-"]:before {
@@ -1109,6 +1109,9 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 }
 .icon-橋:before {
     content: "\6a4b";
+}
+.icon-橘:before {
+    content: "\6a58";
 }
 .icon-機:before {
     content: "\6a5f";
